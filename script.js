@@ -6,6 +6,9 @@ const segments =  require("./static-data.js").productSegments;
 const specialsData =  require("./static-data.js").specials;
 const compliancesData =  require("./static-data.js").compliances;
 
+const apparelTypesData =  require("./static-data.js").apparelTypes;
+
+
 const basURLForContent =  require("./static-data.js").basURLForContent;
 
 
@@ -25,11 +28,17 @@ const worksheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
  const updatedProducts = products.map(product => {
     const  tags = product.tags || [];
     // find the product from the excel sheet
-    const existInTheSheet = worksheet.find(el => el['Product name']?.toLowerCase() === product.name.toLowerCase())
+    const existInTheSheet = worksheet.find(el => {
+        // console.log("el['Product name']", el['Product name'], "product.name", product.name)
+        return el['Product name']?.toLowerCase()?.trim() === product.name.toLowerCase()
+    })
     // when found, find the segment id from product segments, based on the category
+    console.log("existInTheSheet", existInTheSheet, product.name)
     if(existInTheSheet) {
+        console.log("existInTheSheet", existInTheSheet)
         const segmentName = existInTheSheet['Category']?.toLowerCase();
         const segmentFound = segments.find(el => el.name?.toLowerCase() === segmentName) 
+        
         if(segmentFound) {
             tags.push(segmentFound.id);
         } 
@@ -42,23 +51,25 @@ const worksheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
 })   
 
 
-console.log("updatedProducts", updatedProducts)
+// console.log("updatedProducts", updatedProducts)
 
 // when segment id is found, update the product with the segment id
 
 
 // updatedProducts is your array of product objects
-fs.writeFileSync('updated_products.json', JSON.stringify(updatedProducts, null, 2));
-console.log('✅ updated_products.json has been created.');
+// fs.writeFileSync('updated_products.json', JSON.stringify(updatedProducts, null, 2));
+// console.log('✅ updated_products.json has been created.');
+
+addSpecialsIds(updatedProducts, worksheet)
 }
 
 
 
 
-function addSpecialsIds() {
-    const workbook = XLSX.readFile("midas_products.xlsx");
-const sheetName = workbook.SheetNames[0]; // first tab
-const worksheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
+function addSpecialsIds(products, worksheet) {
+//     const workbook = XLSX.readFile("midas_products.xlsx");
+// const sheetName = workbook.SheetNames[0]; // first tab
+// const worksheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
 
 
 
@@ -94,19 +105,19 @@ console.log("updatedProducts", updatedProducts)
 
 // when segment id is found, update the product with the segment id
 
-
+addComplianceIds(updatedProducts, worksheet);
 // updatedProducts is your array of product objects
-fs.writeFileSync('updated_products.json', JSON.stringify(updatedProducts, null, 2));
+// fs.writeFileSync('updated_products.json', JSON.stringify(updatedProducts, null, 2));
 console.log('✅ updated_products.json has been created.');
 }
 
 
 
 
-function addComplianceIds() {
-    const workbook = XLSX.readFile("midas_products.xlsx");
-const sheetName = workbook.SheetNames[0]; // first tab
-const worksheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
+function addComplianceIds(products, worksheet) {
+//     const workbook = XLSX.readFile("midas_products.xlsx");
+// const sheetName = workbook.SheetNames[0]; // first tab
+// const worksheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
 
 
 
@@ -144,9 +155,62 @@ console.log("updatedProducts", updatedProducts)
 
 
 // updatedProducts is your array of product objects
-fs.writeFileSync('updated_products.json', JSON.stringify(updatedProducts, null, 2));
+addApparelTypeIds(updatedProducts, worksheet);
+// fs.writeFileSync('updated_products.json', JSON.stringify(updatedProducts, null, 2));
 console.log('✅ updated_products.json has been created.');
 }
+
+
+function addApparelTypeIds(products, worksheet) {
+//     const workbook = XLSX.readFile("midas_products.xlsx");
+// const sheetName = workbook.SheetNames[0]; // first tab
+// const worksheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
+
+
+
+// console.log("products", products)
+
+// loop through the product and on each product
+ const updatedProducts = products.map(product => {
+    const  tags = product.tags || [];
+    // find the product from the excel sheet
+    const existInTheSheet = worksheet.find(el => {
+        // console.log("el['Product name']", el['Product name'], "product.name", product.name)
+        return el['Product name']?.toLowerCase()?.trim() === product.name.toLowerCase()
+    })
+    // when found, find the segment id from product segments, based on the category
+    console.log("existInTheSheet", existInTheSheet, product.name)
+    if(existInTheSheet) {
+        console.log("existInTheSheet", existInTheSheet)
+        const apparelTypeName = existInTheSheet['Type of Apparel']?.toLowerCase()?.trim();
+        const apparelTypeFound = apparelTypesData.find(el => el.name?.toLowerCase() === apparelTypeName) 
+        
+        if(apparelTypeFound) {
+            tags.push(apparelTypeFound.id);
+        } 
+    }
+
+ return {
+    ...product,
+    tags
+ }   
+})   
+
+
+// console.log("updatedProducts", updatedProducts)
+
+// when segment id is found, update the product with the segment id
+
+
+// updatedProducts is your array of product objects
+fs.writeFileSync('updated_products.json', JSON.stringify(updatedProducts, null, 2));
+// console.log('✅ updated_products.json has been created.');
+}
+
+
+
+
+
 
 
 function setTheImagesURLs() {
@@ -182,9 +246,15 @@ function setTheImagesURLs() {
     })
 }
 
+
+
+
+
+
 addSegmentIds()
 // addComplianceIds()
 
+// addApparelTypeIds()
 
 // const workbook = XLSX.readFile("midas_products.xlsx");
 // const sheetName = workbook.SheetNames[0]; // first tab

@@ -6,7 +6,9 @@
       "segment-2",
       "apparelType-4",
       "special-24",
-      "segment-2"
+      "segment-2",
+      "special-24",
+      "apparelType-4"
     ],
     "images": {
       "0": [
@@ -317,7 +319,13 @@
       "special-13",
       "special-1",
       "special-24",
-      "segment-2"
+      "segment-2",
+      "special-28",
+      "special-29",
+      "special-13",
+      "special-1",
+      "special-24",
+      "apparelType-11"
     ],
     "modelImages": {
       "0": {
@@ -501,7 +509,11 @@
       "special-19",
       "special-1",
       "special-28",
-      "segment-3"
+      "segment-3",
+      "special-19",
+      "compliance-2",
+      "compliance-3",
+      "apparelType-9"
     ],
     "modelImages": {
       "0": {
@@ -664,7 +676,10 @@
       "special-19",
       "special-1",
       "special-28",
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "special-1",
+      "apparelType-12"
     ],
     "modelImages": {
       "0": {
@@ -815,7 +830,10 @@
     "tags": [
       "segment-5",
       "apparelType-1",
-      "segment-5"
+      "segment-5",
+      "special-28",
+      "special-40",
+      "apparelType-1"
     ],
     "isSleeved": true,
     "modelImages": {
@@ -973,7 +991,9 @@
       "segment-6",
       "apparelType-8",
       "special-28",
-      "segment-6"
+      "segment-6",
+      "special-28",
+      "apparelType-8"
     ],
     "images": {
       "0": [
@@ -1020,7 +1040,10 @@
       "apparelType-9",
       "special-1",
       "special-28",
-      "segment-8"
+      "segment-8",
+      "special-1",
+      "special-28",
+      "apparelType-9"
     ],
     "images": {
       "0": [
@@ -1125,7 +1148,9 @@
       "cotton 80%, polyester 20% 245 GSM"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-28",
+      "apparelType-3"
     ]
   },
   {
@@ -1149,7 +1174,9 @@
       "Lining: 100% Polyester, 120 GSM"
     ],
     "tags": [
-      "segment-1"
+      "segment-1",
+      "special-6",
+      "apparelType-1"
     ]
   },
   {
@@ -1167,7 +1194,9 @@
       "94% Cotton, 4% Polyester 2% Stretch, 220gsml6.5oz"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-44",
+      "apparelType-4"
     ]
   },
   {
@@ -1191,7 +1220,11 @@
       "Quilting: 100% Polyester, 2x3. 120gsm | 3.5oz"
     ],
     "tags": [
-      "segment-1"
+      "segment-1",
+      "special-6",
+      "special-10",
+      "special-15",
+      "apparelType-1"
     ]
   },
   {
@@ -1210,7 +1243,13 @@
       "100%Cotton, Proban treated FR–3/1 Twill, 220 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "special-19",
+      "special-24",
+      "compliance-2",
+      "compliance-3",
+      "apparelType-7"
     ]
   },
   {
@@ -1231,7 +1270,9 @@
       "60% Modacrylic, 38% Cotton, 2% Antistatic Ripstop 280gsm1 8.3oz"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-34",
+      "apparelType-7"
     ]
   },
   {
@@ -1253,7 +1294,9 @@
       "Cordura: 4 way stretch patch on knees: 92% Nylon, 8% Spandex"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-36",
+      "apparelType-9"
     ]
   },
   {
@@ -1270,7 +1313,9 @@
       "98% Cotton, 2% Elastane Denim 270 gsm18oz"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-35",
+      "apparelType-1"
     ]
   },
   {
@@ -1294,7 +1339,10 @@
       "Lining: 100% Para-Aramid, 270 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "special-28",
+      "apparelType-1"
     ]
   },
   {
@@ -1318,7 +1366,10 @@
       "Inside Layers: 100% Polyester mesh – 120 GSM"
     ],
     "tags": [
-      "segment-8"
+      "segment-8",
+      "special-1",
+      "special-28",
+      "apparelType-9"
     ]
   },
   {
@@ -1338,7 +1389,8 @@
       "98%Cotton, 2%Elastane, 2/2 weave 240gsml 7.1oz"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "apparelType-5"
     ]
   },
   {
@@ -1355,7 +1407,10 @@
       "Shell Fabric: 65% Cotton, 35% Polyester Ripstop, 240 GSM"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-28",
+      "special-19",
+      "apparelType-9"
     ]
   },
   {
@@ -1371,7 +1426,9 @@
       "50% cotton, 50% Polyester peach finished 240 gsm1 7.1oz"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-19",
+      "apparelType-4"
     ]
   },
   {
@@ -1394,7 +1451,10 @@
       "Shell: 98% Cotton, 2% Elastane, 2/2 weave, 245 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-13",
+      "special-18",
+      "apparelType-13"
     ]
   },
   {
@@ -1415,7 +1475,11 @@
       "Reinforcement: 100% Nylon, 180 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "special-21",
+      "special-28",
+      "apparelType-4"
     ]
   },
   {
@@ -1439,7 +1503,10 @@
       "35% UHMWPE, 30% Polyester, 2% Spandex, Coolmax"
     ],
     "tags": [
-      "segment-8"
+      "segment-8",
+      "special-1",
+      "special-28",
+      "apparelType-10"
     ]
   },
   {
@@ -1461,7 +1528,9 @@
       "Contrast: 92% Nylon, 08% Spandex, 250 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-35",
+      "apparelType-9"
     ]
   },
   {
@@ -1482,7 +1551,10 @@
       "Shell: 100% Elasticated Polyester TPU, 300 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-1",
+      "special-21",
+      "apparelType-1"
     ]
   },
   {
@@ -1505,7 +1577,11 @@
       "Mesh: 92% Nylon and 08% Elastane DWR"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-13",
+      "special-38",
+      "special-1",
+      "apparelType-4"
     ]
   },
   {
@@ -1526,7 +1602,12 @@
       "Contrast: 4 way-stretch, 92% Nylon, 8% Spandex, 250 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "special-28",
+      "special-24",
+      "special-13",
+      "apparelType-4"
     ]
   },
   {
@@ -1545,7 +1626,11 @@
       "Grey contrast: 65% Cotton, 35% Polyester, 240 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "special-28",
+      "special-46",
+      "apparelType-9"
     ]
   },
   {
@@ -1566,7 +1651,8 @@
       "Shell fabric: 94% Polyester, 6% Spandex TPU Softshell Fleece, 240 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "apparelType-1"
     ]
   },
   {
@@ -1580,7 +1666,9 @@
       "Fabrics not found in catalog."
     ],
     "tags": [
-      "segment-7"
+      "segment-7",
+      "special-28",
+      "apparelType-14"
     ]
   },
   {
@@ -1598,7 +1686,9 @@
       "Shell: 81.5% PIW Cotton, 17.5% Reprieve Polyster, 1% Elastane, 340 GSM"
     ],
     "tags": [
-      "segment-7"
+      "segment-7",
+      "special-28",
+      "apparelType-14"
     ]
   },
   {
@@ -1619,7 +1709,9 @@
       "Shell Fabric: 65% Cotton, 35% Recycled Polyester fleece, 200 GSM"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-28",
+      "apparelType-1"
     ]
   },
   {
@@ -1639,7 +1731,9 @@
       "Contrast: 92% Nylon, 8% Spandex"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-28",
+      "apparelType-9"
     ]
   },
   {
@@ -1662,7 +1756,9 @@
       "Cordura: 92% Nylon, 8% Spandex, 250 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-19",
+      "apparelType-9"
     ]
   },
   {
@@ -1680,7 +1776,10 @@
       "Lining: 100% Meta-Aramid 200 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "special-13",
+      "apparelType-7"
     ]
   },
   {
@@ -1700,7 +1799,11 @@
       "Shell: 94% Polyester, 6% Spandex, 240 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-13",
+      "special-28",
+      "special-32",
+      "apparelType-4"
     ]
   },
   {
@@ -1718,7 +1821,11 @@
       "Shell fabric: 93% Meta-aramid, 5% Para-aramid, 2% Antistatic (Grey-white), 210–230g"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "special-1",
+      "compliance-4",
+      "apparelType-12"
     ]
   },
   {
@@ -1736,7 +1843,12 @@
       "99%cotton, 1% Anti-Static 3/1 Twill, 450 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "special-1",
+      "compliance-3",
+      "compliance-2",
+      "apparelType-7"
     ]
   },
   {
@@ -1754,7 +1866,12 @@
       "Shell: 75% Cotton, 24% Polyester, 1% Anti-static, 2/1 S-Twill, 265 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-19",
+      "special-29",
+      "special-28",
+      "compliance-3",
+      "apparelType-9"
     ]
   },
   {
@@ -1774,7 +1891,9 @@
       "Lining: 100% Meta Aramid 200 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-35",
+      "apparelType-1"
     ]
   },
   {
@@ -1795,7 +1914,13 @@
       "Lining: Modacrylic, 50 %+ Viscose, 50%, 200 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "special-19",
+      "special-13",
+      "compliance-3",
+      "compliance-2",
+      "apparelType-8"
     ]
   },
   {
@@ -1817,7 +1942,13 @@
       "Contrast: FR -54% Modacrylic, 34% Cotton,7% Kevlar, 3% Polyamide, 2% Anti-static, 2/2 Twill, 300 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-1",
+      "special-28",
+      "compliance-1",
+      "compliance-2",
+      "compliance-3",
+      "apparelType-9"
     ]
   },
   {
@@ -1834,7 +1965,13 @@
       "Lining: 100% Meta-aramid, 235 GSM"
     ],
     "tags": [
-      "segment-1"
+      "segment-1",
+      "special-11",
+      "special-12",
+      "special-13",
+      "special-3",
+      "special-14",
+      "apparelType-2"
     ]
   },
   {
@@ -1850,7 +1987,10 @@
       "75% Cotton, 24% Polyester, 1% Antistatic, 2/1 S Twil, 265 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-19",
+      "compliance-1",
+      "apparelType-1"
     ]
   },
   {
@@ -1872,7 +2012,11 @@
       "Bottom Lining: 100% Polyester Taffeta"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-1",
+      "special-13",
+      "special-28",
+      "apparelType-6"
     ]
   },
   {
@@ -1889,7 +2033,10 @@
       "100% Cotton 3/I Twill 200 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "special-1",
+      "apparelType-9"
     ]
   },
   {
@@ -1906,7 +2053,12 @@
       "100% Cotton, 3/1 Twill, 260 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-13",
+      "special-1",
+      "compliance-3",
+      "compliance-2",
+      "apparelType-8"
     ]
   },
   {
@@ -1926,7 +2078,9 @@
       "100 Polyester Quilting - 250 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-41",
+      "apparelType-7"
     ]
   },
   {
@@ -1944,7 +2098,9 @@
       "Shell: 65% Polyester, 35% Cotton, 2/l Twill, 160 GSM"
     ],
     "tags": [
-      "segment-7"
+      "segment-7",
+      "special-28",
+      "apparelType-14"
     ]
   },
   {
@@ -1964,7 +2120,10 @@
       "Quilting Front Panel: 100% Polyester"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-13",
+      "special-7",
+      "apparelType-1"
     ]
   },
   {
@@ -1985,7 +2144,11 @@
       "Sleeves: 82% Recycled Nylon, 18% Spandex PU membrane, Recycled stretch fleece, 280 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-1",
+      "special-28",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2006,7 +2169,10 @@
       "Lining: 100% Polyester Taffeta"
     ],
     "tags": [
-      "segment-1"
+      "segment-1",
+      "special-7",
+      "special-8",
+      "apparelType-1"
     ]
   },
   {
@@ -2026,7 +2192,11 @@
       "94% Polyester 6% Spandex, 220 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-21",
+      "special-1",
+      "special-20",
+      "apparelType-1"
     ]
   },
   {
@@ -2044,7 +2214,9 @@
       "100% polyester softshell, 275 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-5",
+      "apparelType-1"
     ]
   },
   {
@@ -2063,7 +2235,11 @@
       "100% Polyester TPU 120gsml 3.5oz"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-26",
+      "special-13",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2083,7 +2259,11 @@
       "Shell Fabric: 100% Polyester-180 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-28",
+      "special-29",
+      "special-30",
+      "apparelType-11"
     ]
   },
   {
@@ -2100,7 +2280,11 @@
       "Shell Fabric: 100% Polyester-110 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-1",
+      "special-28",
+      "special-13",
+      "apparelType-2"
     ]
   },
   {
@@ -2123,7 +2307,10 @@
       "Lining: 100% Poly Bird Eye Mesh Hi-Vis Yellow"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-5",
+      "compliance-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2144,7 +2331,9 @@
       "Quilt: 100% Polyester-180 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-21",
+      "apparelType-1"
     ]
   },
   {
@@ -2168,7 +2357,9 @@
       "Contrast: 100% Recycle Polyester PU membrane -240 GSM"
     ],
     "tags": [
-      "segment-1"
+      "segment-1",
+      "special-6",
+      "apparelType-1"
     ]
   },
   {
@@ -2188,7 +2379,9 @@
       "94% Polyester, 6% Spandex 200gsm15.9oz"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-13",
+      "apparelType-2"
     ]
   },
   {
@@ -2210,7 +2403,10 @@
       "Contrast: Navy 100% POLYESTER 2/2TWILL-220 GSM W/R, DWR, PU, PVC Quilting: 100% Poly Quilting -275 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-13",
+      "special-1",
+      "apparelType-6"
     ]
   },
   {
@@ -2230,7 +2426,11 @@
       "94% Polyester, 6% Spandex TPU 100D Hi-Vis- Yellow220gsml 6.5 oz"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-21",
+      "special-1",
+      "special-24",
+      "apparelType-1"
     ]
   },
   {
@@ -2247,7 +2447,12 @@
       "Shell Fabric: 50%Polyester, 50%Cotton, Fleece-300 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-1",
+      "special-28",
+      "special-29",
+      "special-24",
+      "apparelType-10"
     ]
   },
   {
@@ -2266,7 +2471,11 @@
       "Quilting: 100% Poly Quilting, 200 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-20",
+      "special-22",
+      "compliance-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2285,7 +2494,10 @@
       "Shell Fabric: 100%Poly Oxford PU Milky Coating Hi-Vis Yellow-250 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-13",
+      "special-1",
+      "apparelType-5"
     ]
   },
   {
@@ -2305,7 +2517,9 @@
       "100% cotton 240gsm|7oz"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-13",
+      "apparelType-2"
     ]
   },
   {
@@ -2327,7 +2541,12 @@
       "Sleeves: 92% Recycle Nylon, 18% Spandex, 400 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-35",
+      "special-19",
+      "special-28",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2346,7 +2565,12 @@
       "100% Cotton, Proban treated FR, 3/1 Twill, 220 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "special-1",
+      "compliance-2",
+      "compliance-3",
+      "apparelType-7"
     ]
   },
   {
@@ -2367,7 +2591,9 @@
       "Shell: 100% Cotton, 3/1 Twill, 220 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-28",
+      "apparelType-7"
     ]
   },
   {
@@ -2385,7 +2611,9 @@
       "Shell: 93% Meta-Aramid, 5% Para-Aramid, 2% carbon ISO GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-24",
+      "apparelType-7"
     ]
   },
   {
@@ -2405,7 +2633,9 @@
       "Middle layer: Patented Kewl fabric"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-28",
+      "apparelType-2"
     ]
   },
   {
@@ -2429,7 +2659,11 @@
       "Lining: 100% Polyester Taffeta, 180 GSM"
     ],
     "tags": [
-      "segment-1"
+      "segment-1",
+      "special-4",
+      "special-5",
+      "special-3",
+      "apparelType-1"
     ]
   },
   {
@@ -2449,7 +2683,8 @@
       "Shell Fabric: 100% Polyester TPU Softshell, 220 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "apparelType-9"
     ]
   },
   {
@@ -2469,7 +2704,9 @@
       "Contrast: 100% Nylon Cordura 500x500D i/i Canvas"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "apparelType-9"
     ]
   },
   {
@@ -2489,7 +2726,10 @@
       "Contrast: 100% Polyester 150D softshell, 220 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-20",
+      "special-13",
+      "apparelType-2"
     ]
   },
   {
@@ -2508,7 +2748,11 @@
       "Lining: Solid Single Jersey 100% Cotton 150 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "special-45",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2525,7 +2769,10 @@
       "Contrast: 4-way stretch 92% Nylon, 8% Spandex, 250 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-18",
+      "special-19",
+      "apparelType-3"
     ]
   },
   {
@@ -2544,7 +2791,9 @@
       "Shell fabric: 94% Polyester, 6% Spandex TPU Softshell Fleece, 240 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-21",
+      "apparelType-1"
     ]
   },
   {
@@ -2567,7 +2816,11 @@
       "Lining: Solid Single Jersey, 100% Cotton, 150 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-28",
+      "special-43",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2586,7 +2839,11 @@
       "Mesh: 80%Polyamide 20% Elastane"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "special-1",
+      "special-13",
+      "apparelType-1"
     ]
   },
   {
@@ -2602,7 +2859,9 @@
       "Shell fabric: 100% Recycled Polyester, 240 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2619,7 +2878,9 @@
       "Shell fabric: 100% GRS recycled Polyester, 240 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-28",
+      "apparelType-1"
     ]
   },
   {
@@ -2639,7 +2900,8 @@
       "60% Cotton, 40% Nylon tufted 260gsm17.7oz"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "apparelType-1"
     ]
   },
   {
@@ -2659,7 +2921,9 @@
       "Lining: 100% Polyester Quilting, 200 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-28",
+      "apparelType-1"
     ]
   },
   {
@@ -2679,7 +2943,11 @@
       "Rib: Camo printed Rib Ixl, 97% Cotton, 3% Spandex, 425 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "special-28",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2699,7 +2967,11 @@
       "Shell Fabric: 65%Polyester, 35%Cotton, 4/1 Satin, 335 GSM"
     ],
     "tags": [
-      "segment-1"
+      "segment-1",
+      "special-1",
+      "special-2",
+      "special-3",
+      "apparelType-1"
     ]
   },
   {
@@ -2719,7 +2991,8 @@
       "Fleece inner: 100% GRS recycled Polyester, 240 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "apparelType-1"
     ]
   },
   {
@@ -2740,7 +3013,9 @@
       "100% Polyester, quilted 180 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-28",
+      "apparelType-1"
     ]
   },
   {
@@ -2756,7 +3031,12 @@
     "fabrics": [
       "HI-VIS Yellow 100%Polyester-210gsm DWR, UPF 30+, FR"
     ],
-    "tags": []
+    "tags": [
+      "segment-2",
+      "special-20",
+      "special-17",
+      "apparelType-1"
+    ]
   },
   {
     "id": "product-97",
@@ -2775,7 +3055,9 @@
       "Shell: 50% Cotton, 50% Polyester, 190 GSM"
     ],
     "tags": [
-      "segment-7"
+      "segment-7",
+      "special-28",
+      "apparelType-14"
     ]
   },
   {
@@ -2793,7 +3075,12 @@
       "Cordura: 92% Nylon, 8% Spandex"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "special-28",
+      "special-46",
+      "special-39",
+      "apparelType-9"
     ]
   },
   {
@@ -2814,7 +3101,9 @@
       "Contrast: 92% Nylon, 8% Spandex"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-28",
+      "apparelType-4"
     ]
   },
   {
@@ -2836,7 +3125,11 @@
       "100% Polyester TPU I50D Softshell 220gsml6.5oz"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-21",
+      "special-1",
+      "special-24",
+      "apparelType-1"
     ]
   },
   {
@@ -2856,7 +3149,9 @@
       "Fleece Inner: 100% GRS recycled Polyester, 240 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-20",
+      "apparelType-1"
     ]
   },
   {
@@ -2877,7 +3172,9 @@
       "Contrast: 82% Recycled Nylon, 18% Spandex PU membrane, Recycled stretch fleece, 400 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2900,7 +3197,10 @@
       "4way stretch: 92% Nylon, 08% Spandex, 250 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-21",
+      "special-23",
+      "apparelType-4"
     ]
   },
   {
@@ -2920,7 +3220,9 @@
       "Contrast: 55% Cotton, 44% Linen, 1% Elastane, 280 GSM"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-1",
+      "apparelType-1"
     ]
   },
   {
@@ -2940,7 +3242,9 @@
       "Contrast: 100% Nylon"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-42",
+      "apparelType-4"
     ]
   },
   {
@@ -2959,7 +3263,9 @@
       "Shell Fabric: 67% Cotton, 30% Tencel, 3% Spandex, 200 GSM"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-1",
+      "apparelType-9"
     ]
   },
   {
@@ -2976,7 +3282,9 @@
       "Shell Fabric: 55% Recycled Polyester, 35% Cotton, 10% Tencel, 200 GSM"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-1",
+      "apparelType-8"
     ]
   },
   {
@@ -2994,7 +3302,9 @@
       "Contrast: 4 way-stretch, 92% Nylon, 8% Spandex, 250 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "apparelType-9"
     ]
   },
   {
@@ -3017,7 +3327,8 @@
       "Lining: 100% Polyester 2x3, Quilting 160gsm14.7oz"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "apparelType-1"
     ]
   },
   {
@@ -3036,7 +3347,11 @@
       "100% 100D Ripstop Polyester , 30Dfleece 260gsm17.7oz"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-28",
+      "special-40",
+      "special-18",
+      "apparelType-9"
     ]
   },
   {
@@ -3061,7 +3376,12 @@
       "Quilting: 100% Polyester 120 gsm 1 3.5 oz"
     ],
     "tags": [
-      "segment-1"
+      "segment-1",
+      "special-6",
+      "special-5",
+      "special-9",
+      "special-10",
+      "apparelType-1"
     ]
   },
   {
@@ -3081,7 +3401,12 @@
       "Contrast: 54% Modacrylic, 34% Cotton, 7% Kevlar, 3% Polyamide, 2% Anti-Static, 300 GSM, 2/2 Twill"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-28",
+      "compliance-3",
+      "compliance-2",
+      "compliance-1",
+      "apparelType-7"
     ]
   },
   {
@@ -3100,7 +3425,9 @@
       "Shell Fabric: 65% Cotton, 35% Polyester, 200 GSM"
     ],
     "tags": [
-      "segment-6"
+      "segment-6",
+      "special-1",
+      "apparelType-8"
     ]
   },
   {
@@ -3119,7 +3446,13 @@
       "Shell fabric: 50D High Elastic plain, 100, 60D, 75 GSM",
       "Finishing: TPU Clear membrane 3K/5K"
     ],
-    "tags": []
+    "tags": [
+      "segment-5",
+      "special-39",
+      "special-1",
+      "special-21",
+      "apparelType-1"
+    ]
   },
   {
     "id": "product-115",
@@ -3138,7 +3471,11 @@
       "Quilting Front Panel: 100% cotton 210 GSM"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-13",
+      "special-28",
+      "special-7",
+      "apparelType-1"
     ]
   },
   {
@@ -3158,7 +3495,9 @@
       "Shell: 98% Organic Cotton, 2% Elastane, 210 GSM"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-28",
+      "apparelType-9"
     ]
   },
   {
@@ -3178,7 +3517,11 @@
       "Shell Fabric: 100% Polyester-180 GSM"
     ],
     "tags": [
-      "segment-2"
+      "segment-2",
+      "special-28",
+      "special-29",
+      "special-30",
+      "apparelType-11"
     ]
   },
   {
@@ -3199,7 +3542,11 @@
       "Contrast: 9% Meta-Aramid, 20% Modcrylic, 1% Antistatic, 2/1 Z twill, 205 GSM"
     ],
     "tags": [
-      "segment-3"
+      "segment-3",
+      "special-13",
+      "compliance-3",
+      "compliance-2",
+      "apparelType-8"
     ]
   },
   {
@@ -3220,7 +3567,9 @@
       "Quilting: 100% Polyester 2x3 110gsm|3.2oz"
     ],
     "tags": [
-      "segment-4"
+      "segment-4",
+      "special-19",
+      "apparelType-1"
     ]
   },
   {
@@ -3242,7 +3591,10 @@
       "100% Polyester, TPU ,150D Softshell 220gsm|6.5oz"
     ],
     "tags": [
-      "segment-5"
+      "segment-5",
+      "special-28",
+      "special-40",
+      "apparelType-1"
     ]
   }
 ]

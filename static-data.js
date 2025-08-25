@@ -3477,6 +3477,135 @@ export const compliances = [
       },
     ]
 
+export const  apparelTypes = [
+      {
+        id: 'apparelType-1',
+        name: 'Jacket',
+        type: 'top',
+        zIndex: 300,
+        willReplace: ['apparelType-2', 'apparelType-6'],
+      },
+
+      {
+        id: 'apparelType-2',
+        name: 'Vest',
+        type: 'top',
+        zIndex: 290,
+        willReplace: ['apparelType-1', 'apparelType-6'],
+      },
+      {
+        id: 'apparelType-3',
+        name: 'Shorts',
+        type: 'bottom',
+        zIndex: 100,
+        willReplace: ['apparelType-4', 'apparelType-9'],
+      },
+      {
+        id: 'apparelType-4',
+        name: 'Trouser',
+        type: 'bottom',
+        zIndex: 100,
+        willReplace: ['apparelType-3', 'apparelType-9'],
+      },
+      {
+        id: 'apparelType-5',
+        name: 'Overall',
+        type: 'bottom',
+        zIndex: 210,
+        willReplace: [
+          'apparelType-9',
+          'apparelType-3',
+          'apparelType-4',
+          'apparelType-11',
+          'apparelType-8',
+          'apparelType-10',
+          'apparelType-6',
+        ],
+      },
+      {
+        id: 'apparelType-6',
+        name: 'Parka',
+        type: 'top',
+        zIndex: 300,
+        willReplace: ['apparelType-1', 'apparelType-2'],
+      },
+      {
+        id: 'apparelType-7',
+        name: 'Coverall',
+        type: 'bottom',
+        zIndex: 350,
+        willReplace: [
+          'apparelType-9',
+          'apparelType-3',
+          'apparelType-4',
+          'apparelType-9',
+          'apparelType-8',
+          'apparelType-10',
+          'apparelType-6',
+          'apparelType-2',
+          'apparelType-1',
+          'apparelType-13',
+        ],
+      },
+      {
+        id: 'apparelType-8',
+        name: 'Shirt',
+        type: 'top',
+        zIndex: 200,
+        willReplace: ['apparelType-10', 'apparelType-11'],
+      },
+      {
+        id: 'apparelType-9',
+        name: 'Pants',
+        type: 'bottom',
+        zIndex: 100,
+        willReplace: ['apparelType-3', 'apparelType-4'],
+      },
+      {
+        id: 'apparelType-10',
+        name: 'Sweatshirt',
+        type: 'top',
+        zIndex: 200,
+        willReplace: ['apparelType-8', 'apparelType-11'],
+      },
+      {
+        id: 'apparelType-11',
+        name: 'Polo',
+        type: 'top',
+        zIndex: 200,
+        willReplace: ['apparelType-10', 'apparelType-8'],
+      },
+      {
+        id: 'apparelType-12',
+        name: 'Balaclava',
+        type: 'headgear',
+        zIndex: 190,
+        willReplace: [],
+      },
+      {
+        id: 'apparelType-13',
+        name: 'Suit',
+        type: 'top',
+        zIndex: 350,
+        willReplace: [
+          'apparelType-9',
+          'apparelType-3',
+          'apparelType-4',
+          'apparelType-11',
+          'apparelType-8',
+          'apparelType-10',
+          'apparelType-6',
+        ],
+      },
+      {
+        id: 'apparelType-14',
+        name: 'Scrubs',
+        type: 'top',
+        zIndex: 200,
+        willReplace: [],
+      },
+    ]
+
 export const basURLForContent = "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main"
 
 
