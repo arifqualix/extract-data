@@ -251,7 +251,12 @@ function setTheImagesURLs() {
 
 
 
-addSegmentIds()
+
+
+
+
+
+// addSegmentIds()
 // addComplianceIds()
 
 // addApparelTypeIds()

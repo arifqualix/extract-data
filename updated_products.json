@@ -1483,7 +1483,7 @@
     ]
   },
   {
-    "id": "product-26",
+    "id": "product-25",
     "name": "CUT RESISTANT-SWEATSHIRT",
     "description": "Midas Cut Resistant Clothing is designed to provide protection to workers in the glass, industrial manufacturing, and food processing industries. It provides protection to the body to mitigate the risk of cut injuries while being comfortable in workshops and industrial environments. Our Cut Resistant clothing has a wide range of products including pullovers, aprons, chaps and sleeves conforming from A3 to A9 levels of protection classes.",
     "features": [
@@ -1510,7 +1510,7 @@
     ]
   },
   {
-    "id": "product-27",
+    "id": "product-26",
     "name": "DENIM WORK PANTS",
     "description": "These sustainable denim work trousers are the perfect choice for everyday tasks or for those in the service industry. With a clean overall appearance and internal pockets, these pants are designed for eco-conscious workers who want a professional and functional look.",
     "features": [
@@ -1534,7 +1534,7 @@
     ]
   },
   {
-    "id": "product-28",
+    "id": "product-27",
     "name": "DURA SOFTSHELL JACKET",
     "description": "Our DWR softshell fleece bonded Dura Softshell jacket is an ideal pick for workers performing outdoor tasks in cold environments. The Dura Softshell jacket is designed to offer, freedom of movement and breathtaking while withstanding the rigors of rain and wind.",
     "features": [
@@ -1558,7 +1558,7 @@
     ]
   },
   {
-    "id": "product-29",
+    "id": "product-28",
     "name": "Dura softshell Trouser",
     "description": "Our DWR softshell, fleece bonded Dura trousers are designed for weather protection, freedom of movement and breathability. The knees are protected by CORDURA® patch: a strong, light weight, rugged and hardwearing waterproof fabric which allows you to move dynamically in comfort, with little restriction.",
     "features": [
@@ -1585,7 +1585,7 @@
     ]
   },
   {
-    "id": "product-30",
+    "id": "product-29",
     "name": "Dura tough-Industrial trouser",
     "description": "The Dura Tough Industrial Pant is the perfect choice for workers who need a durable and comfortable pant with high visibility features. Made from 100% polyester with Hi-vis accents, these pants are designed for comfort, flexibility, and freedom of movement.",
     "features": [
@@ -1611,7 +1611,7 @@
     ]
   },
   {
-    "id": "product-31",
+    "id": "product-30",
     "name": "DURO 2TONE INDUSTRIAL PANT",
     "description": "The Duro 2Tone Industrial Pant is ideal for workers who need a durable and comfortable option. With a contrasting grey and black design, these pants offer exceptional comfort, flexibility, and freedom of movement.",
     "features": [
@@ -1634,7 +1634,7 @@
     ]
   },
   {
-    "id": "product-32",
+    "id": "product-31",
     "name": "DWR FLEXI FORCE JACKET",
     "description": "Midas Safety’s Waterproof Stretch Workwear Jacket is the perfect option for working in low-temperature environments. This jacket has a waterproof, membrane-lined exterior to keep you protected during moderate rain and wind while working outdoors. The contrasting reflective accent ensures visibility in low-light conditions. Front pockets provide convenient storage for essentials, while the full front DWR zipper closure prevents water from entering.",
     "features": [
@@ -1656,23 +1656,7 @@
     ]
   },
   {
-    "id": "product-33",
-    "name": "ECO-BLUE SCRUBS SET",
-    "description": "Description not found in catalog for exact match: ECO BLUE SCRUBS",
-    "features": [
-      "Features not found in catalog."
-    ],
-    "fabrics": [
-      "Fabrics not found in catalog."
-    ],
-    "tags": [
-      "segment-7",
-      "special-28",
-      "apparelType-14"
-    ]
-  },
-  {
-    "id": "product-34",
+    "id": "product-32",
     "name": "ECO-BLUE SCRUBS SET",
     "description": "Our Men’s Casual Two-Piece Denim Medical Scrub is perfect for healthcare professionals who want to look and feel their best at work. This eco-friendly set features a unique triple-stitch design that adds a touch of style without compromising on professionalism. The V-neck top has multiple pockets that make it easy to access your essentials, while the pants are designed for comfort and mobility, allowing you to move with ease during long shifts. Whether you’re a doctor, nurse, or any other healthcare professional, this scrub will give you the confidence you need to perform your job with ease.",
     "features": [
@@ -1692,7 +1676,7 @@
     ]
   },
   {
-    "id": "product-35",
+    "id": "product-33",
     "name": "ECO-Fleece work jacket",
     "description": "Choosing the right workwear is essential for staying comfortable and productive all day long, especially in demanding jobs. Our fleece work jacket is designed specifically for service industry workers, offering exceptional comfort and freedom of movement. Made from soft and breathable fleece, this jacket will keep you warm and cozy on cooler days without restricting your movement. It also features a front patch pocket for storing essentials and a high collar for extra warmth. For a complete and professional look, pair the fleece work jacket with our sustainable fleece trousers. These trousers are made from recycled materials and offer the same level of comfort and durability as the jacket. Together, the fleece work jacket and trousers make the perfect workwear ensemble for service industry workers.",
     "features": [
@@ -1715,7 +1699,7 @@
     ]
   },
   {
-    "id": "product-36",
+    "id": "product-34",
     "name": "ECO-TERRAIN WORK Pants",
     "description": "Our Eco-Terrain work pants are designed for outdoor fieldwork and provide the perfect fit. Kneeling during work can be strenuous on the body and knees, which is why our pants offer the ideal solution with knee protection and a stretch gusset.",
     "features": [
@@ -1737,7 +1721,7 @@
     ]
   },
   {
-    "id": "product-37",
+    "id": "product-35",
     "name": "EnviroArmor pants",
     "description": "Are you in need of durable and eco-friendly pants for chilly outdoor work? Look no further than our Eco Armor pants! These multipurpose pants are designed to offer warmth and moisture resistance in cold work environments.",
     "features": [
@@ -1762,7 +1746,7 @@
     ]
   },
   {
-    "id": "product-38",
+    "id": "product-36",
     "name": "FR-EXCEL COVERALL",
     "description": "The Multirole coverall is made of lighter yet multifunctional flame retardant workwear fabric. It is designed to meet today’s increasing multipurpose garment requirements including flame retardance, chemical splash, and anti-static protection. Main seams are double stitched and stress points are bar-tacked for reinforced strength. The garment has the additional feature of interlock knitted Meta-Aramid lining to enhance FR protection.",
     "features": [
@@ -1783,7 +1767,7 @@
     ]
   },
   {
-    "id": "product-39",
+    "id": "product-37",
     "name": "Filan trouser",
     "description": "The Midas Film Softshell trouser is a perfect companion when weather conditions get tough. This lightweight softshell trouser is extremely soft, comfortable, and flexible.",
     "features": [
@@ -1807,7 +1791,7 @@
     ]
   },
   {
-    "id": "product-40",
+    "id": "product-38",
     "name": "FR ANTISTATIC BALACLAVA-GREY WHITE",
     "description": "Midas Safety's FR antistatic balaclava is a vital piece of personal protective equipment (PPE) designed to protect workers in hazardous environments. These balaclavas are made from our vertically developed FR fabric, helping in resistance to ignition, and can self-extinguish if they catch sudden fire. Additionally, their antistatic properties help to prevent the buildup of static electricity, which can ignite flammable materials.",
     "features": [
@@ -1829,7 +1813,7 @@
     ]
   },
   {
-    "id": "product-41",
+    "id": "product-39",
     "name": "FR Blaze Guard Coverall",
     "description": "The Midas Safety Navy-Blue Blaze-Guard Coverall is a flame-resistant (FR) garment designed for comfort and durability in extreme environments. It is a popular choice for workers in the petroleum, gas, electric, aluminum, and chemical industries, as it protects against flash fires and arc flashing.",
     "features": [
@@ -1852,7 +1836,7 @@
     ]
   },
   {
-    "id": "product-42",
+    "id": "product-40",
     "name": "FR CARGO PANTS",
     "description": "Our men's FR cargo pants are tough, durable, and visible, making them the perfect choice for workers in hazardous environments. Crafted with hard work in mind, these pants are built to withstand fire risks and provide all-day comfort and durability.",
     "features": [
@@ -1875,7 +1859,7 @@
     ]
   },
   {
-    "id": "product-43",
+    "id": "product-41",
     "name": "FR DENIM JACKET",
     "description": "This Rinse wash FR work jacket is attached with 100% meta-aramid knitted lining to keep the wearer warm with added features of strength, superior resistance to heat; low flammability, and impact resistance. The innovative features such as the elasticized waistband and deep-pleated action back increase comfort and mobility.",
     "features": [
@@ -1897,7 +1881,7 @@
     ]
   },
   {
-    "id": "product-44",
+    "id": "product-42",
     "name": "FR HYBRID SHIRT",
     "description": "The FR Hybrid Shirt for Women is specially tailored for women to provide a comfortable and supportive fit, while also ensuring the highest level of flame resistance and durability. Made with inherent FR yarns and lined with Modacrylic and Viscose plain interlock fabric, the FR Hybrid Shirt is designed to keep women in the field safe and secure.",
     "features": [
@@ -1924,7 +1908,7 @@
     ]
   },
   {
-    "id": "product-45",
+    "id": "product-43",
     "name": "FR GUARD PANTS",
     "description": "Our FR Performer pants are designed to shield workers from serious fire hazards in high-risk industries like utilities, fuel distribution, petrochemicals, and power generation. With a streamlined fit, holster pockets, side cargo pockets, flap-covered knee pad pockets, back pockets, and hanging loops, these pants are perfect for the FR workwear needs.",
     "features": [
@@ -1952,7 +1936,7 @@
     ]
   },
   {
-    "id": "product-46",
+    "id": "product-44",
     "name": "LIT-ARMOR FR VEST",
     "description": "Stay safe and visible in dangerous environments with the Lit-Armor High–Visibility FR Vest. This lightweight, flexible vest features FR active lighting technology, with integrated FR Lightning piping that is visible from up to 3 kilometers away.",
     "features": [
@@ -1975,7 +1959,7 @@
     ]
   },
   {
-    "id": "product-47",
+    "id": "product-45",
     "name": "FR Mihawk Jacket",
     "description": "The FR Mihawk Jacket is made of durable Ripstop FR materials and boasts top-quality construction. It features an FR PU coating, making it essential for workers in the utility, fuel distribution, petrochemical, and power generation industries who need protection from work hazards.",
     "features": [
@@ -1994,7 +1978,7 @@
     ]
   },
   {
-    "id": "product-48",
+    "id": "product-46",
     "name": "FR Pro-Weather shield Parka",
     "description": "The FR–Weather Pro jacket is built with lighter, stronger, multifunctional flame-retardant workwear fabric. Designed to meet today's increasing multipurpose garment requirements including flame retardance, cut resistance, chemical splash, antistatic, and high visibility.",
     "features": [
@@ -2020,7 +2004,7 @@
     ]
   },
   {
-    "id": "product-49",
+    "id": "product-47",
     "name": "FR REFLECTIVE CARGO PANTS",
     "description": "Our Flame-Resistant Cargo Pants are made to move. These work pants offer the comfort, breathability, and performance in any condition, including welding, electrical and utility services, construction, and wherever electric or, flash fires, or combustible dust could be an issue.",
     "features": [
@@ -2040,7 +2024,7 @@
     ]
   },
   {
-    "id": "product-50",
+    "id": "product-48",
     "name": "FR TERRA OVERLAY SHIRT",
     "description": "The FR TERRA OVERLAY shirt is a must-have for any worker's wardrobe. This classic workwear essential encompasses a sophisticated design while providing exceptional flame-resistant (FR) protection.",
     "features": [
@@ -2062,7 +2046,7 @@
     ]
   },
   {
-    "id": "product-51",
+    "id": "product-49",
     "name": "FREEZER WEAR COVERALL",
     "description": "Midas Safety's freezer coveralls are designed to keep you warm and protected in harsh work environments. The suit features heavy-duty zippers and wind-resistant flaps to keep out the elements, allowing you to focus on your work without worrying about freezing temperatures or moisture.",
     "features": [
@@ -2084,7 +2068,7 @@
     ]
   },
   {
-    "id": "product-52",
+    "id": "product-50",
     "name": "FRIEDEN SCRUBS SET",
     "description": "Our two-piece medical scrub for men is a great option for healthcare professionals who want to look stylish and professional. The eco-friendly scrub set features a unique triple-stitch design that enhances your appearance without compromising functionality. The V-neck top comes with multiple pockets, making it easy for you to access your essentials. The pants offer comfortable movement and flexibility for long shifts. Whether you’re a doctor, nurse, or any other healthcare professional, our two-piece medical scrub for men is the perfect choice to help you look and feel your best while at work.",
     "features": [
@@ -2104,7 +2088,7 @@
     ]
   },
   {
-    "id": "product-53",
+    "id": "product-51",
     "name": "GUARD 2TONE STRETCH JACKET",
     "description": "The jacket, crafted from two technical materials, features a unique quilted front panel that offers a contrasting appearance and color scheme. Its ultra lightweight and shiny front panel quilting provides a technical appeal and ensures an incredibly comfortable fit. The original design incorporates a quilted front, while the sleeves and back are made of stretchable contrasting fabrics, allowing for unrestricted movement. This jacket is not only warm and stylish but also offers a distinctive look for those who want to stand out. It boasts practical features such as a full-length waterproof zipper, an adjustable hood, and two large zipped pockets. The water-repellent and down-proof fabric ensures maximum comfort and style during the cold season, making this jacket a perfect choice for anyone seeking both warmth and fashion.",
     "features": [
@@ -2127,7 +2111,7 @@
     ]
   },
   {
-    "id": "product-54",
+    "id": "product-52",
     "name": "HARDSHELL HYBRID WORK JACKET",
     "description": "Our new Hybrid Hardshell Jacket combines athleisure with sustainability to create a jacket that is both eco-friendly and functional. Made from recycled materials, this jacket is breathable and perfect for protecting you from rain, wind, or snow during winter patrolling or camping trips.",
     "features": [
@@ -2152,7 +2136,7 @@
     ]
   },
   {
-    "id": "product-55",
+    "id": "product-53",
     "name": "HEAT SENSING-ENVIROARMOR JACKET",
     "description": "The Heat-Sensing Enviro Armor Jacket is the perfect outdoor work jacket for cold weather conditions. The jacket features an integrated heating kit made with eco-friendly DWR fabric materials, an athleisure design, stretch material, sleeve adjusters, and front zipper pockets.",
     "features": [
@@ -2176,7 +2160,7 @@
     ]
   },
   {
-    "id": "product-56",
+    "id": "product-54",
     "name": "HI-VIS BENONI JACKET",
     "description": "The Midas Benoni Softshell jacket is a perfect companion when weather conditions get tough. It is two toned with stylish use of contrast colors along with transverse reflective strips in exposed areas for Hi-visibility.",
     "features": [
@@ -2200,7 +2184,7 @@
     ]
   },
   {
-    "id": "product-57",
+    "id": "product-55",
     "name": "HI-VIS TORMUND JACKET",
     "description": "Our Tormund Jacket is a premium softshell safety jacket capable of withstanding harsh weather conditions. Packed with thoughtfully designed features, this jacket is guaranteed to keep the worker comfortable, visible, and safe on the job site.",
     "features": [
@@ -2220,7 +2204,7 @@
     ]
   },
   {
-    "id": "product-58",
+    "id": "product-56",
     "name": "High Vis Windbreaker Jacket",
     "description": "The High Vis Windbreaker Jacket is made of lightweight material which provides breathability. For workers who slug it out on a thunder road in high-risk conditions, there's no better way to a get year-round visibility and comfort than by wearing one of our High Vis Windbreaker jacket.",
     "features": [
@@ -2243,7 +2227,7 @@
     ]
   },
   {
-    "id": "product-59",
+    "id": "product-57",
     "name": "HI-VIS 2TONE POLO",
     "description": "The Hi-Vis knit Jacket is perfect for staying comfortable and visible. Crafted from lightweight, breathable knit fabric, this polo is ideal for hot and humid weather. The fabric construction allows optimal airflow, keeping the worker cool and dry throughout the day.",
     "features": [
@@ -2267,7 +2251,7 @@
     ]
   },
   {
-    "id": "product-60",
+    "id": "product-58",
     "name": "HI-VIS BREAKEVEN MESH VEST",
     "description": "This general-purpose safety vest is made of 100% lightweight mesh material. It features a Front buckle adjustable closure and 2-inch orange/silver reflective tapes sewn vertically onto the vest front to back continuously to keep the wearer visible and comfortable in low-light conditions.",
     "features": [
@@ -2288,7 +2272,7 @@
     ]
   },
   {
-    "id": "product-61",
+    "id": "product-59",
     "name": "LUNA HI-VIS FLEECE JACKET",
     "description": "Our Luna Hi-Vis Fleece Jacket is specifically designed to provide female workers with both snug fit and comfort. It is the perfect solution to ensure the wearer remains visible, warm, and comfortable in low visibility and cold temperatures.",
     "features": [
@@ -2314,7 +2298,7 @@
     ]
   },
   {
-    "id": "product-62",
+    "id": "product-60",
     "name": "HI-VIS FREEZER WEAR JACKET",
     "description": "When working in environments as cold as -20 degrees Celsius, it's crucial to have specialized clothing that can protect the workers from hypothermia and frostbite. Midas Safety's freezer-wear jackets are designed to provide maximum warmth and insulation in extreme conditions.",
     "features": [
@@ -2337,7 +2321,7 @@
     ]
   },
   {
-    "id": "product-63",
+    "id": "product-61",
     "name": "Hi-vis Illuminer Tech Jacket",
     "description": "The Hi-Vis Illuminer Tech Jacket is a high-performance workwear jacket that provides comfort, ease of movement, and high visibility in low-light conditions. The jacket is made of industrial launderable stretch material and features Smart Led Visibility technology.",
     "features": [
@@ -2363,7 +2347,7 @@
     ]
   },
   {
-    "id": "product-64",
+    "id": "product-62",
     "name": "HI-VIS INDUSTRIAL TROUSER",
     "description": "Our High-Vis industrial trouser is a perfect companion when weather conditions get tough. This lightweight softshell trouser is comfortable and warm to cope up with the cold weather. The trouser is two toned with contrasting colors for optimal visibility.",
     "features": [
@@ -2385,7 +2369,7 @@
     ]
   },
   {
-    "id": "product-65",
+    "id": "product-63",
     "name": "Hi-VIS RAIN PARKA",
     "description": "This High Visibility Rain Jacket is tested to the ANSI/ISEA 107 Standard. It features a 2 Silver reflective with orange contrasting tape for added visibility. Multiple pockets for ample storage: 2 lower welts with flaps, 1 internal tablet pocket, and 1 external pocket with ID window.",
     "features": [
@@ -2410,7 +2394,7 @@
     ]
   },
   {
-    "id": "product-66",
+    "id": "product-64",
     "name": "Hi-Vis Reversible Jacket",
     "description": "The 2 in 1 Reversible jacket is our engineered masterpiece with a bright yellow and Black waterproof Softshell. The garment features a fleece lining keeping the worker warm in winters. This jacket is a feature-packed workwear through versatility and visibility.",
     "features": [
@@ -2434,7 +2418,7 @@
     ]
   },
   {
-    "id": "product-67",
+    "id": "product-65",
     "name": "Hi-VIS SERVICES SWEATSHIRT",
     "description": "Stay warm and visible with our Hivis and black contrasting sweatshirt. Crafted from a cozy polyester fleece, this sweatshirt offers both comfort and safety. Ideal for workers in the services industry, it's the perfect option for construction, mining, warehouse, and transportation.",
     "features": [
@@ -2456,7 +2440,7 @@
     ]
   },
   {
-    "id": "product-68",
+    "id": "product-66",
     "name": "HI-VIS GUARD JACKET",
     "description": "The Midas Safety Hi-Vis Weather Guard Jacket is a versatile, high-quality workwear option that provides increased visibility and protection against harsh weather. The jacket features taped seams following the EN343 standard to prevent water penetration and conforms to EN20471 Hi-vis standards to ensure complete waterproofing and visibility in low-light environments.",
     "features": [
@@ -2479,7 +2463,7 @@
     ]
   },
   {
-    "id": "product-69",
+    "id": "product-67",
     "name": "Hi-VISIBILITY FREEZER OVERALLS",
     "description": "Ensure you are always seen in low-light or high-traffic environments with the High Visibility Freezer Overalls. Designed with bright, hi-vis colors and reflective strips, these overalls meet ANSI safety standards to keep you visible and safe, even in the most challenging conditions.",
     "features": [
@@ -2501,7 +2485,7 @@
     ]
   },
   {
-    "id": "product-70",
+    "id": "product-68",
     "name": "Hunting Vest",
     "description": "Our canvas hunting vest is a featured piece to carry on fishing or hunting. It is made of canvas fabric with edges adjusted with belts and suspender which go with the shoulder straps that can be adjusted in length to meet different outdoor needs.",
     "features": [
@@ -2523,7 +2507,7 @@
     ]
   },
   {
-    "id": "product-71",
+    "id": "product-69",
     "name": "Hybrid Denim jacket",
     "description": "Our new Hybrid Denim Jacket is the perfect blend of sustainable style and comfort. Made from recycled materials, including viscose fibers, this jacket is eco-friendly and breathable. The fabric provides a soft feel on the skin, with air chambers for lightness and moisture management.",
     "features": [
@@ -2550,7 +2534,7 @@
     ]
   },
   {
-    "id": "product-72",
+    "id": "product-70",
     "name": "INCOMBUSTIBLE ALPHA",
     "description": "Working on oil and gas rigs can be dangerous, as workers are at risk of flash fires and thermal hazards. The Incombustible Alpha Coverall is a necessary item for keeping workers safe in these environments. It offers a comfortable fit and breathable fabric, making it perfect for all-day wear.",
     "features": [
@@ -2574,7 +2558,7 @@
     ]
   },
   {
-    "id": "product-73",
+    "id": "product-71",
     "name": "INGRESS COVERALL",
     "description": "This durable coverall is a must-have for workers in the construction industry. It features a sophisticated design, exceptional comfort, and practical features for side work requirements, such as two chest pockets, a rule pocket, and a concealed stud front.",
     "features": [
@@ -2597,7 +2581,7 @@
     ]
   },
   {
-    "id": "product-74",
+    "id": "product-72",
     "name": "INHERENT COVERALL",
     "description": "Our FR inherent coverall is made to work and Protect! This coverall offers premium FR protection along with comfort.",
     "features": [
@@ -2617,7 +2601,7 @@
     ]
   },
   {
-    "id": "product-75",
+    "id": "product-73",
     "name": "KEWL PHASE CHANGE VEST",
     "description": "Introducing Kewl Tech, our revolutionary phase change material vest. Utilizing the natural cooling power of evaporation. Phase change cooling jackets offer a much-needed respite from the sweltering heat and excessive perspiration experienced by workers in hot and humid plant environments.",
     "features": [
@@ -2639,7 +2623,7 @@
     ]
   },
   {
-    "id": "product-76",
+    "id": "product-74",
     "name": "Lumen Hi-Vis Jacket",
     "description": "The Midas Safety Lumen Jacket is designed to keep you safe and visible in low-light and cold weather conditions. It features Active Lighting Technology that provides 360° visibility in all directions for up to 3 kilometers, making it perfect for those who need to work in low-light and cold weather conditions.",
     "features": [
@@ -2667,7 +2651,7 @@
     ]
   },
   {
-    "id": "product-77",
+    "id": "product-75",
     "name": "Lumia Reflective cargo pants",
     "description": "Introducing our Reflective Work Cargo Pants, a contemporary take on the classic cargo pants. These pants feature reflective piping along the front seams and bungee cord speckles on the spacious cargo pockets, keeping you visible and safe in low-light conditions.",
     "features": [
@@ -2688,7 +2672,7 @@
     ]
   },
   {
-    "id": "product-78",
+    "id": "product-76",
     "name": "Maven Utility cargo pants",
     "description": "Our Maven Utility Cargo Pants are made of cotton-poly duck weave fabric, which is both versatile and durable. Crafted with multiple pockets and double-layered knees for extra protection, these pants are built to last and can handle rugged tasks, whether you're working on a construction site or off the worksite.",
     "features": [
@@ -2710,7 +2694,7 @@
     ]
   },
   {
-    "id": "product-79",
+    "id": "product-77",
     "name": "MESH HI-VIS VEST",
     "description": "The Hi-Vis Poly Mesh Break-Away Vest is designed to increase worker safety and visibility in low-light conditions. Made of DWR fabric with silver reflective tapes and front pockets, this ultra-lightweight vest can be easily worn over basic workwear.",
     "features": [
@@ -2733,7 +2717,7 @@
     ]
   },
   {
-    "id": "product-80",
+    "id": "product-78",
     "name": "MILITARY FIELD JACKET",
     "description": "The Military Utility Jacket is an ideal field jacket that was originally designed as a practical outer layer for military personnel to protect them from the elements. Our jacket is highly durable, tear-resistant, and practical to use.",
     "features": [
@@ -2756,7 +2740,7 @@
     ]
   },
   {
-    "id": "product-81",
+    "id": "product-79",
     "name": "Move HI-VIS SHORTS",
     "description": "Move Hi-Vis Shorts are designed for workers who need comfortable and durable clothing in hot and outdoor environments. Made with 4-way stretch fabric that repels water and DWR zippers, these shorts keep you dry and your essentials safe.",
     "features": [
@@ -2776,7 +2760,7 @@
     ]
   },
   {
-    "id": "product-82",
+    "id": "product-80",
     "name": "MOVE SOFTSHELL JACKET",
     "description": "Midas Safety's Move softshell jacket is the ideal choice for low-temperature work environments. With its waterproof softshell fleece-lined outer and contrasting high-vis colors, the jacket also features front zipper pockets and a full front closure to prevent water from entering keeping the wearer warm and comfortable for any outdoor job.",
     "features": [
@@ -2797,7 +2781,7 @@
     ]
   },
   {
-    "id": "product-83",
+    "id": "product-81",
     "name": "HI-VIS FLEECE JACKET",
     "description": "Our Nami Hybrid Fleece and Quilting Women's Jacket features a range of versatile features and a sleek design; this jacket is the perfect choice for females in services industries to stay comfortable and warm while working.",
     "features": [
@@ -2824,7 +2808,7 @@
     ]
   },
   {
-    "id": "product-84",
+    "id": "product-82",
     "name": "NORD JACKET",
     "description": "Our Nord Utility jacket is crafted from proprietary High Shrunk Nylon and cotton for a durable and lightweight finish. This jacket is incorporated with Polyamide mesh for breathability with added features of oil and Water repellency.",
     "features": [
@@ -2847,7 +2831,7 @@
     ]
   },
   {
-    "id": "product-85",
+    "id": "product-83",
     "name": "NORD RECYCLED TEDDY FLEECE JACKET",
     "description": "Stay cozy and stylish with the Nord Teddy fleece jacket. This premium garment features a soft, high-pile exterior and a breathable lining for optimal warmth. The contrasting black fabric adds a classic touch, while practical details like zippers, a chin guard, and wind protection ensure comfort and functionality. The spacious pockets provide convenient storage and keep your hands warm, making this jacket a must-have for cold-weather adventures.",
     "features": [
@@ -2865,7 +2849,7 @@
     ]
   },
   {
-    "id": "product-86",
+    "id": "product-84",
     "name": "NOVA RECYCLED FLEECE JACKET",
     "description": "Stay warm and comfortable with our Nova Recycled Fleece jacket. Made from soft, deep-pile 100% recycled polyester and finished with several practical features. The jacket features a boxy fit, striking contrast, 2 side pockets, and a practical high neck with long sleeves and elasticated edging. Made from high-quality recycled polyester, it not only offers a trendy look but also actively contributes to reducing waste and environmental pollution.",
     "features": [
@@ -2884,7 +2868,7 @@
     ]
   },
   {
-    "id": "product-87",
+    "id": "product-85",
     "name": "NYCO TOUGH-INDUSTRIAL JACKET",
     "description": "Hard work comes easy in our Nyco Tough-Jacket. Workwear transforms the classic work apparel by utilizing advanced fabrics, reinforced stitching and ergonomically designed gussets. Our Nyco Jackets are built with a nylon cotton blend fabric that is water repellent, stain resistant and compact in size to get work done easily.",
     "features": [
@@ -2905,7 +2889,7 @@
     ]
   },
   {
-    "id": "product-90",
+    "id": "product-86",
     "name": "Nylon work jacket",
     "description": "Experience the warmth and style with the Nylon Work Jacket. Crafted with high-quality nylon, this jacket offers exceptional comfort, mobility, and protection against cold weather conditions.",
     "features": [
@@ -2927,7 +2911,7 @@
     ]
   },
   {
-    "id": "product-91",
+    "id": "product-87",
     "name": "Performer Utility Jacket",
     "description": "The Performer Utility Jacket is the perfect way to stay warm and stylish on chilly days. Its durable quilted pattern and comfortable fabric will keep you cozy, while the trendy camouflage print adds to its appeal.",
     "features": [
@@ -2951,7 +2935,7 @@
     ]
   },
   {
-    "id": "product-93",
+    "id": "product-88",
     "name": "Reddy Active light jacket",
     "description": "Midas Safety's Red Hi-Vis Active light jacket is a wearable tech solution that is designed to provide active protection in low-light conditions. The jacket is equipped with an integrated Active light module that emits light through optic fibers encased in a textile coating, ensuring active protection.",
     "features": [
@@ -2975,7 +2959,7 @@
     ]
   },
   {
-    "id": "product-94",
+    "id": "product-89",
     "name": "REFLECTIVE GUARD JACKET",
     "description": "Midas Safety has launched a new line of innovative weather-safe outerwear that combines athleisure style with safety features. The Reflective Guard Jacket is crafted with a gradient reflective fabric to ensure visibility in low-light conditions while maintaining sleek fit and modern look.",
     "features": [
@@ -2996,7 +2980,7 @@
     ]
   },
   {
-    "id": "product-95",
+    "id": "product-90",
     "name": "REVERSIBLE QUILTED PARKA",
     "description": "Introducing a Reversible quilted parka perfect for fall. This parka features a classic diamond pattern and is crafted with a DWR construction to keep you dry in any weather. The quilted interior provides extra warmth, and the reversible style offers a sporty and urban twist on the classic quilted look. The parka has an elegant, slightly relaxed fit, making it ideal for layering over basic work attire without sacrificing style. It also includes a center-front zipper with a hidden button storm flap, snap buttoned hood, and multiple pockets with contrasting colors to store the essentials.",
     "features": [
@@ -3019,7 +3003,7 @@
     ]
   },
   {
-    "id": "product-96",
+    "id": "product-91",
     "name": "HI-VIS ATHENA JACKET",
     "description": "Built for tough outdoor jobs, the Athena jacket combines durability and comfort. Made from 100% polyester, this feature-packed jacket goes beyond just keeping the elements out. The classic straight fit and high-visibility color ensure you'll be seen in low-light conditions.",
     "features": [
@@ -3039,7 +3023,7 @@
     ]
   },
   {
-    "id": "product-97",
+    "id": "product-92",
     "name": "RUHE SCRUBS SET",
     "description": "Add a touch of excitement to your hectic workday with our Two-Tone Medical Scrub. This flattering-fit set features a V-neck and short sleeves for a stylish and professional look. The matching pants have an elastic waist for long-lasting comfort during your shift. Whether you’re a doctor, nurse, or other healthcare professional, our Two-Tone Medical Scrub is the perfect choice for those who want to look and feel their best while on the job.",
     "features": [
@@ -3061,7 +3045,7 @@
     ]
   },
   {
-    "id": "product-98",
+    "id": "product-93",
     "name": "SERGE 2TONE INDUSTRIAL PANTS",
     "description": "The Serge 2Tone Industrial Pant is ideal for workers seeking a durable and comfortable option. Crafted with a contrasting khaki and black design, these pants offer exceptional comfort, flexibility, and freedom of movement.",
     "features": [
@@ -3084,7 +3068,7 @@
     ]
   },
   {
-    "id": "product-99",
+    "id": "product-94",
     "name": "Silvanus trouser",
     "description": "Our Utility, multi-pocket trouser is styled with tapered legs. It comes with stretch Cordura panels on the knees for comfortable body movements. Designed to be worn low on the waist.",
     "features": [
@@ -3107,7 +3091,7 @@
     ]
   },
   {
-    "id": "product-100",
+    "id": "product-95",
     "name": "Softshell Weather shield jacket",
     "description": "Our Weather shield jacket is a custom fit design made with a waterproof Soft Shell technical fabric. It is constructed for outdoor activities where breathability and water protection from heavy rain is required.",
     "features": [
@@ -3133,7 +3117,7 @@
     ]
   },
   {
-    "id": "product-101",
+    "id": "product-96",
     "name": "SPECTRO JACKET",
     "description": "This innovative weather-safe outerwear combines athleisure style with safety features. The jacket is crafted with a gradient reflective fabric, ensuring visibility in low-light conditions while maintaining a sleek and modern look. The Reflective Guard Jacket is suitable for a wide range of activities and occasions, making it ideal for workers who need to be easily seen in low-light conditions. Its unique feature is the way it catches the light, reflecting a rainbow-like spectrum that’s both eye-catching and practical for visibility. This amazing rainbow reflective jacket looks grey and unassuming until the light hits it, and then it takes on a bright rainbow glow. Our Reflective jacket is perfect for everything from athleisure wear to outdoor or safety wear for activities like cycling or riding a motorbike at night.",
     "features": [
@@ -3155,7 +3139,7 @@
     ]
   },
   {
-    "id": "product-102",
+    "id": "product-97",
     "name": "STALWART WINDBREAKER",
     "description": "Introducing our STALWART Windbreaker, a super breathable jacket that's easy to pack and suitable for all genders. It's made from 100% recycled fabric materials with a water-repellent shell fabric and features mesh vents on both the front and back.",
     "features": [
@@ -3178,7 +3162,7 @@
     ]
   },
   {
-    "id": "product-103",
+    "id": "product-98",
     "name": "SUPER-BESTEN CONVERTIBLE TROUSER",
     "description": "The Super Besten Convertible Trousers are the perfect combination of versatility, functionality, and comfort for year-round use. With hidden zippers, these cargo pants can easily transition from pants to shorts.",
     "features": [
@@ -3204,7 +3188,7 @@
     ]
   },
   {
-    "id": "product-104",
+    "id": "product-99",
     "name": "SUSTAINABLE-WORK JACKET",
     "description": "Our 100% sustainable workwear-inspired hybrid jacket is cut from linen for an ultra-breatheable finish. It also features twin pockets with flop closure on either side along with engraved button detail.",
     "features": [
@@ -3226,7 +3210,7 @@
     ]
   },
   {
-    "id": "product-105",
+    "id": "product-100",
     "name": "Sustainable-Fleece work trouser",
     "description": "As a painter, it is very important that the workwear you choose is equipped with the right pockets and features for your work, and that will remain comfortable no matter how you need to move about over the course of the working day. At the same time, your workwear needs to be hard-wearing and capable of putting up with almost anything. A painter’s work trouser from Midas Safety has been thoroughly tested for its features, freedom of movement, and wear resistance. For extra wear resistance when kneeling, we’ve incorporated Cordura kneepad pockets.",
     "features": [
@@ -3248,7 +3232,7 @@
     ]
   },
   {
-    "id": "product-106",
+    "id": "product-101",
     "name": "Tencel Cargo Pants",
     "description": "The Tencel cargo pants are made with soft, breathable Tencel fabric, these pants have a relaxed fit and multiple pockets for added convenience. The classic beige color adds a touch of sophistication to any service wardrobe. Plus, with a blend of cotton and Spandex, these pants offer both comfort and flexibility for unrestricted movement.",
     "features": [
@@ -3269,7 +3253,7 @@
     ]
   },
   {
-    "id": "product-107",
+    "id": "product-102",
     "name": "Terra Overlay shirt",
     "description": "The TERRA OVERLAY shirt is an essential addition to any worker’s wardrobe in the services industry. It features a classic design that’s perfect for workwear and provides exceptional comfort for outdoor tasks. The soft twill fabric feels great against the skin and helps you maintain your elegance all day long. It’s also designed to offer a comfortable and supportive fit. The cotton content in the fabric keeps the shirt breathable.",
     "features": [
@@ -3288,7 +3272,7 @@
     ]
   },
   {
-    "id": "product-108",
+    "id": "product-103",
     "name": "Titan Work Pants",
     "description": "Our workwear cargo pants are made from recycled polyester and cotton, making them both sustainable and durable. They are also designed with large side pockets for convenience and a knee 4-way stretch patch for unrestricted movement.",
     "features": [
@@ -3308,7 +3292,7 @@
     ]
   },
   {
-    "id": "product-109",
+    "id": "product-104",
     "name": "TOIL SOFTSHELL ANORAK",
     "description": "Be ready for unpredictable weather at work with our handy Toil anorak jacket. It is made of water-resistant fabric to keep you dry in wet weather with brushed fleece bonding, lining for added warmth and adjustable cuffs to keep out the cold wind.",
     "features": [
@@ -3332,7 +3316,7 @@
     ]
   },
   {
-    "id": "product-110",
+    "id": "product-105",
     "name": "Toil Workwear Cargo Pants",
     "description": "Our Fleece bonded, DWR Softshell trouser helps the worker to stay warm, comfortable and Dry. It's suitable for most outdoor working conditions, particularly in cold and rugged surroundings.",
     "features": [
@@ -3355,7 +3339,7 @@
     ]
   },
   {
-    "id": "product-111",
+    "id": "product-106",
     "name": "TORMUND2 ADVANCE TECH JACKET",
     "description": "Tormund2 is a multi-feature thoughtfully designed jacket combining the High visibility with a modern fit and stylish look. It offers industrial launderable stretch which is durable and comfortable. It comes with quilting option to keep wearers warm in adverse weather conditions.",
     "features": [
@@ -3385,7 +3369,7 @@
     ]
   },
   {
-    "id": "product-112",
+    "id": "product-107",
     "name": "TWO-TONE FR COVERALL",
     "description": "Designed for women working in extreme environments, our Two-Tone Premium Coveralls provide superior protection and comfort. Made from 100% FR cotton twill, they offer a soft, comfortable fit for all-day wear, while also safeguarding against flash fires, arc flash, and other hazards.",
     "features": [
@@ -3410,7 +3394,7 @@
     ]
   },
   {
-    "id": "product-113",
+    "id": "product-108",
     "name": "VANTGUARD POLO SHIRT",
     "description": "Experience unparalleled comfort and performance with our classic work polo. Featuring a cut-and-sew design with contrasting piping, this polo offers exceptional moisture management and breathability. The lightweight mesh with contrasting fabric vents moisture, preventing buildup and keeping the wearer cool and comfortable throughout the work shift.",
     "features": [
@@ -3431,7 +3415,7 @@
     ]
   },
   {
-    "id": "product-114",
+    "id": "product-109",
     "name": "VENTX SAFETY WINDBREAKER JACKET",
     "description": "Stay protected and ride in style with our VentX Safety Windbreaker Jacket. This jacket features a waterproof zipper, a detachable and toggle-adjustable hood that can be detached and stored in the pocket inside, segmented reflective details for visibility in the dark at the front and back, waterproof zipper closure, and mesh vents at the front and back for breathability. Additionally, adjustable cuffs and hem keep unwanted drafts from creeping in. The durable, breathable fabric ensures a perfect fit, no matter the weather, making this jacket designed to keep the wearer comfortable and visible on any ride.",
     "features": [
@@ -3455,7 +3439,7 @@
     ]
   },
   {
-    "id": "product-115",
+    "id": "product-110",
     "name": "WEATHERPROOF MAVERICK JACKET",
     "description": "The jacket, crafted from two technical materials, features a unique quilted front panel that offers a contrasting appearance and color scheme. Its ultra-lightweight and shiny front panel quilting provides a technical appeal and ensures an incredibly comfortable fit.",
     "features": [
@@ -3479,7 +3463,7 @@
     ]
   },
   {
-    "id": "product-116",
+    "id": "product-111",
     "name": "Work Utility Pants",
     "description": "Midas Barrington Trousers have been designed with your modern work in mind. The slim fit trouser has been ergonomically constructed with comfortable fabrication to ensure that your mobility is maximized. Strong CORDURA® fabric has been used for reinforcement at knees to enhance durability.",
     "features": [
@@ -3500,32 +3484,9 @@
       "apparelType-9"
     ]
   },
+
   {
-    "id": "product-117",
-    "name": "HI-VIS 2TONE POLO",
-    "description": "The Hi-Vis knit Jacket is perfect for staying comfortable and visible. Crafted from lightweight, breathable knit fabric, this polo is ideal for hot and humid weather. The fabric construction allows optimal airflow, keeping the worker cool and dry throughout the day. The moisture wicking properties help to prevent sweat build-up, ensuring maximum comfort while the reflective tapes keep the wearer visible in low light conditions.",
-    "features": [
-      "One chest pocket",
-      "2-tone contrasting fabrics",
-      "ENISO20471 Class1",
-      "Button collar",
-      "Front and back reflective tape",
-      "Snap button closure",
-      "Reflective tapes"
-    ],
-    "fabrics": [
-      "Shell Fabric: 100% Polyester-180 GSM"
-    ],
-    "tags": [
-      "segment-2",
-      "special-28",
-      "special-29",
-      "special-30",
-      "apparelType-11"
-    ]
-  },
-  {
-    "id": "product-118",
+    "id": "product-113",
     "name": "FR BRIO SHIRT",
     "description": "The FR BRIO Shirt is a classic workwear essential with a modern design. It features high flame-resistant (FR) properties to ensure maximum protection while still maintaining a sleek appearance. The shirt is tailored to provide a comfortable and supportive fit that is ideal for work and designed to keep workers safe and secure in hazardous environments. Made from high-quality materials, the FR BRIO Shirt is extremely durable and protective.",
     "features": [
@@ -3550,7 +3511,7 @@
     ]
   },
   {
-    "id": "product-119",
+    "id": "product-114",
     "name": "DUAL INDUSTRIAL JACKET",
     "description": "Our Dual industrial-jacket is perfect for any worksite. Featuring jacket made of sturdy Cotton Poly blend fabric that can keep up with the toughness you need to take on a rugged workday. Multi Pocket with added vest engineers’ extra durability right where you need it most.",
     "features": [
@@ -3571,30 +3532,6 @@
       "special-19",
       "apparelType-1"
     ]
-  },
-  {
-    "id": "product-120",
-    "name": "DWR-SOFTSHELL JACKET",
-    "description": "Our Fleece bonded, DWR Softshell Jacket helps the worker to stay warm, comfortable and Dry. It’s suitable for outdoor working conditions, particularly in cold and rugged surroundings. It is designed with a clean form-straight fit silhouette while the light stretch in the fabric eases movement.",
-    "features": [
-      "DWR Fleece Bonded fabric",
-      "High Neck Shoulder",
-      "Easy zipper placket",
-      "Front pockets",
-      "Water repellant zippers",
-      "Reinforced cuffs and hood",
-      "Drawstring hood and hem",
-      "Velcro adjustable cuffs",
-      "Reflective Binding in Stitching"
-    ],
-    "fabrics": [
-      "100% Polyester, TPU ,150D Softshell 220gsm|6.5oz"
-    ],
-    "tags": [
-      "segment-5",
-      "special-28",
-      "special-40",
-      "apparelType-1"
-    ]
   }
+
 ]
