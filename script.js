@@ -214,23 +214,38 @@ fs.writeFileSync('updated_products.json', JSON.stringify(updatedProducts, null, 
 
 
 function setTheImagesURLs() {
-    return products.map(product => {
-            let images = product.images;
-            if(!images) {
-                const productIdNumber = product.id?.split("-")[1];
-                 
+        console.log("1");
+    const updatedProducts = products.map(product => {
+        console.log("2");
+            
+        let images = product.images;
+        console.log("3");
+           
+        if(!images) {
+        console.log("4");
+         
+            const productIdNumber = product.id?.split("-")[1];
+        console.log("5");
+        
+            
                 const segmentIdFound = product.tags.find(tag => tag.startsWith("segment-"))
+        console.log("6");
+      
                 if(segmentIdFound && productIdNumber) {
+        console.log("7");
+     
                     const segmentIdNumber = segmentIdFound.split("-")[1];
+                    
                     if(segmentIdNumber) {
+        console.log("8", segmentIdNumber, productIdNumber, `https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment${segmentIdNumber}/product${productIdNumber}/image1.jpg`);
                         images = {
                             0:  [
-                                `${basURLForContent}/images/segments/segment${segmentIdNumber}/product${productIdNumber}/image1.jpg`
-                                `${basURLForContent}/images/segments/segment${segmentIdNumber}/product${productIdNumber}/image2.jpg`
-                                `${basURLForContent}/images/segments/segment${segmentIdNumber}/product${productIdNumber}/image3.jpg`
-                                `${basURLForContent}/images/segments/segment${segmentIdNumber}/product${productIdNumber}/image4.jpg`
+                                `https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment${segmentIdNumber}/product${productIdNumber}/color1/image1.jpg`,
+                                `https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment${segmentIdNumber}/product${productIdNumber}/color1/image2.jpg`,
+                                `https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment${segmentIdNumber}/product${productIdNumber}/color1/image3.jpg`,
+                                `https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment${segmentIdNumber}/product${productIdNumber}/color1/image4.jpg`,
 
-
+                               
                             ]
                         }
 
@@ -239,18 +254,24 @@ function setTheImagesURLs() {
             }
 
 
+    return {
+        ...product,
+        images
 
-
+    }
         
 
     })
+    console.log("updatedProducts", updatedProducts)
+
+    fs.writeFileSync('updated_products_with_images.json', JSON.stringify(updatedProducts, null, 2));
 }
 
 
 
 
 
-
+setTheImagesURLs();
 
 
 
