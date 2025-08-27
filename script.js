@@ -269,9 +269,95 @@ function setTheImagesURLs() {
 
 
 
+function addLiveImageURL() {
+    const updated = products.map(product => {
+      const productIdNumber = product.id?.split("-")[1];
+      const segmentIdFound = product.tags.find(tag => tag.startsWith("segment-"));
+      const segmentIdNumber = segmentIdFound.split("-")[1];
+    return {
+      ...product,
+      images: {
+        0: [
+          `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+          `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+          `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+          `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+
+        ]
+      }
+    }
+  })
+
+  
+  console.log("updated", updated)
+    fs.writeFileSync('updated_products_with_live_image_url.json', JSON.stringify(updated, null, 2));
+    console.log('✅ updated_products_with_live_image_url.json has been created.');
+}
 
 
-setTheImagesURLs();
+
+
+function addModelImagesLiveURL() {
+    const updated = products.map(product => {
+      const productIdNumber = product.id?.split("-")[1];
+      const segmentIdFound = product.tags.find(tag => tag.startsWith("segment-"));
+      const segmentIdNumber = segmentIdFound.split("-")[1];
+    return {
+      ...product,
+      modelImages: product.modelImages?.[0] ? {
+        0:  {
+        
+        front: {
+          default:
+             `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Ffront.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+            logoPlacement: null,
+        },
+        right: {
+          logoPlacement: null,
+          default:
+                        `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fright.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+        },
+        back: {
+          logoPlacement: null,
+          default:
+             `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fback.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+        },
+        rightAngle: {
+          logoPlacement: null,
+          default:
+             `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fright_angle.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+        },
+        leftAngle: {
+          logoPlacement: null,
+          default:
+             `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fleft_angle.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+        },
+        left: {
+          logoPlacement: null,
+          default:
+             `https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment${segmentIdNumber}%2Fproduct${productIdNumber}%2Fcolor1%2Fleft.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957`,
+        },
+    
+      },
+      } : {}
+    }
+  })
+
+  
+  console.log("updated", updated)
+    fs.writeFileSync('updated_products_with_live_image_url2.json', JSON.stringify(updated, null, 2));
+    console.log('✅ updated_products_with_live_image_url.json has been created.');
+}
+
+
+
+
+addModelImagesLiveURL();
+
+// addLiveImageURL();
+
+
+// setTheImagesURLs();
 
 
 

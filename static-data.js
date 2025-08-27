@@ -13,22 +13,9 @@ export  const dummyProducts = [
     ],
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image4.jpg"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image4.jpg"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/image4.jpg"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct1%2Fcolor1%2Fimage1.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct1%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct1%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
       ]
     },
     "modelImages": {
@@ -66,74 +53,7 @@ export  const dummyProducts = [
           "logoPlacement": null
         }
       },
-      "1": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/right.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/right_angle.png",
-          "logoPlacement": null
-        }
-      },
-      "2": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/right.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product1/right_angle.png",
-          "logoPlacement": null
-        }
-      }
+     
     },
     "description": "Our Hi-Vis Trouser is a highly durable trouser that comes with Hi-Vis tape attached to the lower part of the legs. These Hi-Vis tapes retain their reflective properties for up to 60 industrial washes. The elasticated waist provides flexibility and adjustability to make it a comfortable choice for wearers. It has two spacious side pockets and two back pockets. This trouser is an ideal choice for those who want style, comfort, and protection.",
     "hazards": [
@@ -199,93 +119,14 @@ export  const dummyProducts = [
           "logoPlacement": null
         }
       },
-      "1": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right_angle.png",
-          "logoPlacement": null
-        }
-      },
-      "2": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right_angle.png",
-          "logoPlacement": null
-        }
-      }
+     
     },
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image4.jpg"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image4.jpg"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/image4.jpg"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct2%2Fcolor1%2Fimage1.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct2%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct2%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct2%2Fcolor1%2Fimage4.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
       ]
     },
     "description": "The Hi Vis Poly mesh break-away vest is designed to increase the safety and visibility of workers in low light conditions. This vest is made of DWR fabric with features of silver reflective tapes and front pockets. This vest is super light in weight and can be easily worn over basic wear.",
@@ -371,109 +212,14 @@ export  const dummyProducts = [
           "logoPlacement": null
         }
       },
-      "1": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/right_angle.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/right.png",
-          "logoPlacement": null
-        },
-        "leftArm": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/left_arm.png",
-          "logoPlacement": null
-        },
-        "rightArm": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/right_arm.png",
-          "logoPlacement": null
-        }
-      },
-      "2": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/right_angle.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/right.png",
-          "logoPlacement": null
-        },
-        "leftArm": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/left_arm.png",
-          "logoPlacement": null
-        },
-        "rightArm": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/right_arm.png",
-          "logoPlacement": null
-        }
-      }
+     
     },
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image2.png",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image4.JPG"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image2.png",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image4.JPG"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image2.png",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product3/image4.JPG"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct3%2Fcolor1%2Fimage1.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct3%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct3%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct3%2Fcolor1%2Fimage4.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
       ]
     },
     "description": "The Hi-Vis Rib-knit polo shirt is perfect for staying comfortable and visible at the job site. This High Visibility Long Sleeve Safety Polo Shirt is ENISO Class 2 Compliant. Made with lightweight 100% Knit Polyester, it features a rib-knit navy collar and a 3-buttoned placket for a professional appearance ensuring better breathability and providing high comfort during warm working days.",
@@ -551,93 +297,14 @@ export  const dummyProducts = [
           "logoPlacement": null
         }
       },
-      "1": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/right_angle.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        }
-      },
-      "2": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/right_angle.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        }
-      }
+     
     },
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image4.jpg"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image4.jpg"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product4/image4.jpg"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct4%2Fcolor1%2Fimage1.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct4%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct4%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct4%2Fcolor1%2Fimage4.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
       ]
     },
     "description": "The FR Performer pants are durable and designed to protect workers from fire hazards in the workplace. They are ideal for workers in high-risk industries such as utilities, fuel distribution, petrochemicals, and power generation, where arc flash and fire risks are a constant threat. Featuring a streamlined and straight fit, spacious front pockets, a flap-covered knee pad pocket, a hanging loop at the front, and a double-layered front placket and collars, the FR Performer pants provide both comfort and protection.",
@@ -717,93 +384,14 @@ export  const dummyProducts = [
           "logoPlacement": null
         }
       },
-      "1": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/right_angle.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        }
-      },
-      "2": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/right_angle.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        }
-      }
+     
     },
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image2.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image3.png",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image4.JPG"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image2.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image3.png",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image4.JPG"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image2.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image3.png",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment3/product5/image4.JPG"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct5%2Fcolor1%2Fimage1.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct5%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct5%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct5%2Fcolor1%2Fimage4.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
       ]
     },
     "description": "Midas Safety’s FR balaclavas are an essential form of personal protective equipment (PPE) intended to safeguard workers in industries where fire and heat hazards are prevalent. Constructed from specialized materials that resist ignition and self-extinguish in the event of a fire, these balaclavas are made from Midas Safety’s 100% Meta aramid fabric, which provides protection against fire and heat hazards. The design includes an eye opening and ensures complete coverage of the head, face, and neck, providing exceptional warmth and a snug fit due to the elasticity of the fire-resistant fabric. With a wider neck area and minimal seams, it can be comfortably worn under a protective helmet without causing any discomfort.",
@@ -872,93 +460,14 @@ export  const dummyProducts = [
           "logoPlacement": null
         }
       },
-      "1": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/right_angle.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        }
-      },
-      "2": {
-        "back": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/back.png",
-          "logoPlacement": null
-        },
-        "front": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/front.png",
-          "logoPlacement": null
-        },
-        "left": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/left.png",
-          "logoPlacement": null
-        },
-        "right": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/right.png",
-          "logoPlacement": null
-        },
-        "leftAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/left_angle.png",
-          "logoPlacement": null
-        },
-        "rightAngle": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/right_angle.png",
-          "logoPlacement": null
-        },
-        "leftUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/left.png",
-          "logoPlacement": null
-        },
-        "rightUncropped": {
-          "default": "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment2/product2/right.png",
-          "logoPlacement": null
-        }
-      }
+      
     },
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image4.jpg"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image4.jpg"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment5/product6/image4.jpg"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct6%2Fcolor1%2Fimage1.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct6%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct6%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct6%2Fcolor1%2Fimage4.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
       ]
     },
     "description": "Our Fleece bonded, DWR Softshell Jacket helps the worker to stay warm, comfortable and dry. It’s suitable for outdoor working conditions, particularly in cold and rugged surroundings. It is designed with a clean form-straight fit silhouette while the light stretch in the fabric eases movement.",
@@ -998,22 +507,10 @@ export  const dummyProducts = [
     ],
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image4.jpg"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image4.jpg"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product7/image4.jpg"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct7%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct7%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct7%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct7%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
       ]
     },
     "modelImages": {},
@@ -1048,22 +545,10 @@ export  const dummyProducts = [
     ],
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image2.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image3.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image4.JPG"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image2.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image3.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image4.JPG"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image1.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image2.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image3.JPG",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment8/product8/image4.JPG"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct8%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct8%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct8%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct8%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
       ]
     },
     "modelImages": {},
@@ -1098,25 +583,10 @@ export  const dummyProducts = [
     ],
     "images": {
       "0": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image4.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image5.jpg"
-      ],
-      "1": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image4.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image5.jpg"
-      ],
-      "2": [
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image1.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image2.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image3.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image4.jpg",
-        "https://raw.githubusercontent.com/Qualix-Solutions/MidasContent/refs/heads/main/images/segments/segment6/product9/image5.jpg"
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct9%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct9%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct9%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct9%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
       ]
     },
     "modelImages": {},
@@ -1152,7 +622,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-28",
       "apparelType-3"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct10%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct10%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct10%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct10%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-11",
@@ -1178,7 +656,15 @@ export  const dummyProducts = [
       "segment-1",
       "special-6",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct11%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct11%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct11%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct11%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-12",
@@ -1198,7 +684,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-44",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct12%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct12%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct12%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct12%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-13",
@@ -1226,7 +720,15 @@ export  const dummyProducts = [
       "special-10",
       "special-15",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct13%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct13%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct13%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct13%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-14",
@@ -1251,7 +753,15 @@ export  const dummyProducts = [
       "compliance-2",
       "compliance-3",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct14%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct14%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct14%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct14%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-15",
@@ -1274,7 +784,15 @@ export  const dummyProducts = [
       "segment-3",
       "special-34",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct15%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct15%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct15%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct15%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-16",
@@ -1298,7 +816,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-36",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct16%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct16%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct16%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct16%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-17",
@@ -1317,7 +843,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-35",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct17%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct17%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct17%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct17%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-18",
@@ -1344,7 +878,15 @@ export  const dummyProducts = [
       "special-19",
       "special-28",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct18%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct18%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct18%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct18%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-19",
@@ -1371,7 +913,14 @@ export  const dummyProducts = [
       "special-1",
       "special-28",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct19%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct19%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct19%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-20",
@@ -1392,7 +941,15 @@ export  const dummyProducts = [
     "tags": [
       "segment-4",
       "apparelType-5"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct20%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct20%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct20%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct20%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-21",
@@ -1412,7 +969,15 @@ export  const dummyProducts = [
       "special-28",
       "special-19",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct21%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct21%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct21%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct21%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-22",
@@ -1430,7 +995,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-19",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct22%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct22%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct22%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct22%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-23",
@@ -1456,7 +1029,15 @@ export  const dummyProducts = [
       "special-13",
       "special-18",
       "apparelType-13"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct23%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct23%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct23%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct23%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-24",
@@ -1481,7 +1062,15 @@ export  const dummyProducts = [
       "special-21",
       "special-28",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct24%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct24%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct24%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct24%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-25",
@@ -1508,7 +1097,15 @@ export  const dummyProducts = [
       "special-1",
       "special-28",
       "apparelType-10"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct25%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct25%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct25%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment8%2Fproduct25%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-26",
@@ -1532,7 +1129,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-35",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct26%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct26%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct26%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct26%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-27",
@@ -1556,7 +1161,15 @@ export  const dummyProducts = [
       "special-1",
       "special-21",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct27%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct27%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct27%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct27%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-28",
@@ -1583,7 +1196,15 @@ export  const dummyProducts = [
       "special-38",
       "special-1",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct28%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct28%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct28%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct28%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-29",
@@ -1609,7 +1230,15 @@ export  const dummyProducts = [
       "special-24",
       "special-13",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct29%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct29%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct29%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct29%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-30",
@@ -1632,7 +1261,15 @@ export  const dummyProducts = [
       "special-28",
       "special-46",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct30%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct30%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct30%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct30%2Fcolor1%2Fimage4.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-31",
@@ -1654,7 +1291,15 @@ export  const dummyProducts = [
     "tags": [
       "segment-5",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct31%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct31%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct31%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct31%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-32",
@@ -1674,7 +1319,15 @@ export  const dummyProducts = [
       "segment-7",
       "special-28",
       "apparelType-14"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct32%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct32%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct32%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct32%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-33",
@@ -1697,7 +1350,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-28",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct33%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct33%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct33%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct33%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-34",
@@ -1719,7 +1380,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-28",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct34%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct34%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct34%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct34%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-35",
@@ -1744,7 +1413,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-19",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct35%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct35%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct35%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct35%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-36",
@@ -1765,7 +1442,15 @@ export  const dummyProducts = [
       "special-28",
       "special-13",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct36%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct36%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct36%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct36%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-37",
@@ -1789,7 +1474,15 @@ export  const dummyProducts = [
       "special-28",
       "special-32",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct37%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct37%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct37%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct37%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-38",
@@ -1811,7 +1504,15 @@ export  const dummyProducts = [
       "special-1",
       "compliance-4",
       "apparelType-12"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct38%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct38%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct38%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct38%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-39",
@@ -1834,7 +1535,15 @@ export  const dummyProducts = [
       "compliance-3",
       "compliance-2",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct39%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct39%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct39%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct39%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-40",
@@ -1857,7 +1566,15 @@ export  const dummyProducts = [
       "special-28",
       "compliance-3",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct40%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct40%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct40%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct40%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-41",
@@ -1879,7 +1596,15 @@ export  const dummyProducts = [
       "segment-3",
       "special-35",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct41%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct41%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct41%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct41%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-42",
@@ -1906,7 +1631,15 @@ export  const dummyProducts = [
       "compliance-3",
       "compliance-2",
       "apparelType-8"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct42%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct42%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct42%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct42%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-43",
@@ -1934,7 +1667,15 @@ export  const dummyProducts = [
       "compliance-2",
       "compliance-3",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct43%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct43%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct43%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct43%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-44",
@@ -1957,7 +1698,15 @@ export  const dummyProducts = [
       "special-3",
       "special-14",
       "apparelType-2"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct44%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct44%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct44%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct44%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-45",
@@ -1976,7 +1725,15 @@ export  const dummyProducts = [
       "special-19",
       "compliance-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct45%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct45%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct45%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct45%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-46",
@@ -2002,7 +1759,15 @@ export  const dummyProducts = [
       "special-13",
       "special-28",
       "apparelType-6"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct46%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct46%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct46%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct46%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-47",
@@ -2022,7 +1787,15 @@ export  const dummyProducts = [
       "special-28",
       "special-1",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct47%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct47%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct47%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct47%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-48",
@@ -2044,7 +1817,15 @@ export  const dummyProducts = [
       "compliance-3",
       "compliance-2",
       "apparelType-8"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct48%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct48%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct48%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct48%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-49",
@@ -2066,7 +1847,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-41",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct49%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct49%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct49%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct49%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-50",
@@ -2086,7 +1875,15 @@ export  const dummyProducts = [
       "segment-7",
       "special-28",
       "apparelType-14"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct50%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct50%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct50%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct50%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-51",
@@ -2109,7 +1906,15 @@ export  const dummyProducts = [
       "special-13",
       "special-7",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct51%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct51%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct51%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct51%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-52",
@@ -2134,7 +1939,15 @@ export  const dummyProducts = [
       "special-28",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct52%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct52%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct52%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct52%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-53",
@@ -2158,7 +1971,15 @@ export  const dummyProducts = [
       "special-7",
       "special-8",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct53%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct53%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct53%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct53%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-54",
@@ -2182,7 +2003,15 @@ export  const dummyProducts = [
       "special-1",
       "special-20",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct54%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct54%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct54%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct54%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-55",
@@ -2202,7 +2031,15 @@ export  const dummyProducts = [
       "segment-2",
       "special-5",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct55%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct55%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct55%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct55%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-56",
@@ -2225,7 +2062,15 @@ export  const dummyProducts = [
       "special-13",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct56%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct56%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct56%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct56%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-57",
@@ -2249,7 +2094,15 @@ export  const dummyProducts = [
       "special-29",
       "special-30",
       "apparelType-11"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct57%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct57%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct57%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct57%2Fcolor1%2Fimage4.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-58",
@@ -2270,7 +2123,15 @@ export  const dummyProducts = [
       "special-28",
       "special-13",
       "apparelType-2"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct58%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct58%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct58%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct58%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-59",
@@ -2296,7 +2157,15 @@ export  const dummyProducts = [
       "special-5",
       "compliance-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct59%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct59%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct59%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct59%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-60",
@@ -2319,7 +2188,15 @@ export  const dummyProducts = [
       "segment-2",
       "special-21",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct60%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct60%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct60%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct60%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-61",
@@ -2345,7 +2222,15 @@ export  const dummyProducts = [
       "segment-1",
       "special-6",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct61%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct61%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct61%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct61%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-62",
@@ -2367,7 +2252,15 @@ export  const dummyProducts = [
       "segment-2",
       "special-13",
       "apparelType-2"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct62%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct62%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct62%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct62%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-63",
@@ -2392,7 +2285,15 @@ export  const dummyProducts = [
       "special-13",
       "special-1",
       "apparelType-6"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct63%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct63%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct63%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct63%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-64",
@@ -2416,7 +2317,15 @@ export  const dummyProducts = [
       "special-1",
       "special-24",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct64%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct64%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct64%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct64%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-65",
@@ -2438,7 +2347,15 @@ export  const dummyProducts = [
       "special-29",
       "special-24",
       "apparelType-10"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct65%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct65%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct65%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct65%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-66",
@@ -2461,7 +2378,15 @@ export  const dummyProducts = [
       "special-22",
       "compliance-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct66%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct66%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct66%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct66%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-67",
@@ -2483,7 +2408,15 @@ export  const dummyProducts = [
       "special-13",
       "special-1",
       "apparelType-5"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct67%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct67%2Fcolor1%2Fimage2.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct67%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct67%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-68",
@@ -2505,7 +2438,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-13",
       "apparelType-2"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct68%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct68%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct68%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct68%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-69",
@@ -2532,7 +2473,15 @@ export  const dummyProducts = [
       "special-28",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct69%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct69%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct69%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct69%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-70",
@@ -2556,7 +2505,15 @@ export  const dummyProducts = [
       "compliance-2",
       "compliance-3",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct70%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct70%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct70%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct70%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-71",
@@ -2579,7 +2536,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-28",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct71%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct71%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct71%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct71%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-72",
@@ -2599,7 +2564,15 @@ export  const dummyProducts = [
       "segment-3",
       "special-24",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct72%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct72%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct72%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct72%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-73",
@@ -2621,7 +2594,15 @@ export  const dummyProducts = [
       "segment-2",
       "special-28",
       "apparelType-2"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct73%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct73%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct73%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct73%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-74",
@@ -2649,7 +2630,15 @@ export  const dummyProducts = [
       "special-5",
       "special-3",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct74%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct74%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct74%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct74%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-75",
@@ -2670,7 +2659,15 @@ export  const dummyProducts = [
     "tags": [
       "segment-5",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct75%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct75%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct75%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct75%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-76",
@@ -2692,7 +2689,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-19",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct76%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct76%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct76%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct76%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-77",
@@ -2715,7 +2720,15 @@ export  const dummyProducts = [
       "special-20",
       "special-13",
       "apparelType-2"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct77%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct77%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct77%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct77%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-78",
@@ -2738,7 +2751,15 @@ export  const dummyProducts = [
       "special-45",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct78%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct78%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct78%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct78%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-79",
@@ -2758,7 +2779,15 @@ export  const dummyProducts = [
       "special-18",
       "special-19",
       "apparelType-3"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct79%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct79%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct79%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct79%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-80",
@@ -2779,7 +2808,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-21",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct80%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct80%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct80%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct80%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-81",
@@ -2806,7 +2843,15 @@ export  const dummyProducts = [
       "special-43",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct81%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct81%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct81%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct81%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-82",
@@ -2829,7 +2874,15 @@ export  const dummyProducts = [
       "special-1",
       "special-13",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct82%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct82%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct82%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct82%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-83",
@@ -2847,7 +2900,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct83%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct83%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct83%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct83%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-84",
@@ -2866,7 +2927,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-28",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct84%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct84%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct84%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct84%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-85",
@@ -2887,7 +2956,15 @@ export  const dummyProducts = [
     "tags": [
       "segment-4",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct85%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct85%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct85%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct85%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-86",
@@ -2909,7 +2986,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-28",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct86%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct86%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct86%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct86%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-87",
@@ -2933,7 +3018,15 @@ export  const dummyProducts = [
       "special-28",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct87%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct87%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct87%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct87%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-88",
@@ -2957,7 +3050,15 @@ export  const dummyProducts = [
       "special-2",
       "special-3",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct88%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct88%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct88%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct88%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-89",
@@ -2978,7 +3079,15 @@ export  const dummyProducts = [
     "tags": [
       "segment-5",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct89%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct89%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct89%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct89%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-90",
@@ -3001,7 +3110,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-28",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct90%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct90%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct90%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct90%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-91",
@@ -3021,7 +3138,15 @@ export  const dummyProducts = [
       "special-20",
       "special-17",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct91%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct91%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct91%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct91%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-92",
@@ -3043,7 +3168,15 @@ export  const dummyProducts = [
       "segment-7",
       "special-28",
       "apparelType-14"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct92%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct92%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct92%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment7%2Fproduct92%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-93",
@@ -3066,7 +3199,15 @@ export  const dummyProducts = [
       "special-46",
       "special-39",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct93%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct93%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct93%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct93%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-94",
@@ -3089,7 +3230,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-28",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct94%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct94%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct94%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct94%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-95",
@@ -3115,7 +3264,15 @@ export  const dummyProducts = [
       "special-1",
       "special-24",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct95%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct95%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct95%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct95%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-96",
@@ -3137,7 +3294,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-20",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct96%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct96%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct96%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct96%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-97",
@@ -3160,7 +3325,15 @@ export  const dummyProducts = [
       "segment-5",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct97%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct97%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct97%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct97%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-98",
@@ -3186,7 +3359,15 @@ export  const dummyProducts = [
       "special-21",
       "special-23",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct98%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct98%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct98%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment2%2Fproduct98%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-99",
@@ -3208,7 +3389,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-1",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct99%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct99%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct99%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct99%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-100",
@@ -3230,7 +3419,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-42",
       "apparelType-4"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct100%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct100%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct100%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct100%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-101",
@@ -3251,7 +3448,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-1",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct101%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct101%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct101%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct101%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-102",
@@ -3270,7 +3475,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-1",
       "apparelType-8"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct102%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct102%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct102%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct102%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-103",
@@ -3290,7 +3503,15 @@ export  const dummyProducts = [
       "segment-4",
       "special-19",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct103%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct103%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct103%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct103%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-104",
@@ -3314,7 +3535,15 @@ export  const dummyProducts = [
     "tags": [
       "segment-5",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct104%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct104%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct104%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct104%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-105",
@@ -3337,7 +3566,15 @@ export  const dummyProducts = [
       "special-40",
       "special-18",
       "apparelType-9"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct105%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct105%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct105%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct105%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-106",
@@ -3367,7 +3604,15 @@ export  const dummyProducts = [
       "special-9",
       "special-10",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct106%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct106%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct106%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment1%2Fproduct106%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-107",
@@ -3392,7 +3637,15 @@ export  const dummyProducts = [
       "compliance-2",
       "compliance-1",
       "apparelType-7"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct107%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct107%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct107%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct107%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-108",
@@ -3413,7 +3666,15 @@ export  const dummyProducts = [
       "segment-6",
       "special-1",
       "apparelType-8"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct108%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct108%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct108%2Fcolor1%2Fimage3.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment6%2Fproduct108%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-109",
@@ -3437,7 +3698,15 @@ export  const dummyProducts = [
       "special-1",
       "special-21",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct109%2Fcolor1%2Fimage1.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct109%2Fcolor1%2Fimage2.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct109%2Fcolor1%2Fimage3.png?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct109%2Fcolor1%2Fimage4.JPG?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-110",
@@ -3461,7 +3730,15 @@ export  const dummyProducts = [
       "special-28",
       "special-7",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct110%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct110%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct110%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment5%2Fproduct110%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-111",
@@ -3483,32 +3760,17 @@ export  const dummyProducts = [
       "segment-4",
       "special-28",
       "apparelType-9"
-    ]
-  },
-  {
-    "id": "product-112",
-    "name": "HI-VIS 2TONE POLO",
-    "description": "The Hi-Vis knit Jacket is perfect for staying comfortable and visible. Crafted from lightweight, breathable knit fabric, this polo is ideal for hot and humid weather. The fabric construction allows optimal airflow, keeping the worker cool and dry throughout the day. The moisture wicking properties help to prevent sweat build-up, ensuring maximum comfort while the reflective tapes keep the wearer visible in low light conditions.",
-    "features": [
-      "One chest pocket",
-      "2-tone contrasting fabrics",
-      "ENISO20471 Class1",
-      "Button collar",
-      "Front and back reflective tape",
-      "Snap button closure",
-      "Reflective tapes"
     ],
-    "fabrics": [
-      "Shell Fabric: 100% Polyester-180 GSM"
-    ],
-    "tags": [
-      "segment-2",
-      "special-28",
-      "special-29",
-      "special-30",
-      "apparelType-11"
-    ]
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct111%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct111%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct111%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct111%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
+
   {
     "id": "product-113",
     "name": "FR BRIO SHIRT",
@@ -3532,7 +3794,15 @@ export  const dummyProducts = [
       "compliance-3",
       "compliance-2",
       "apparelType-8"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct113%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct113%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct113%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment3%2Fproduct113%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   },
   {
     "id": "product-114",
@@ -3555,9 +3825,16 @@ export  const dummyProducts = [
       "segment-4",
       "special-19",
       "apparelType-1"
-    ]
+    ],
+    "images": {
+      "0": [
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct114%2Fcolor1%2Fimage1.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct114%2Fcolor1%2Fimage2.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct114%2Fcolor1%2Fimage3.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957",
+        "https://firebasestorage.googleapis.com/v0/b/midas-189fa.firebasestorage.app/o/assets%2Fimages%2Fsegments%2Fsegment4%2Fproduct114%2Fcolor1%2Fimage4.jpg?alt=media&token=ed1f661f-4a0b-4744-a7af-3fc3899f8957"
+      ]
+    }
   }
-
 ];
 
 
